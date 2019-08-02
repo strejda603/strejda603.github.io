@@ -1,0 +1,25 @@
+<package>
+	<id>com.strejda603.actionshack</id>
+	<name>Actions (Subscriptions)</name>
+	<version>1.0.0-1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>7.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+	</dependencies>
+	<shortDescription>Patches subscription requirement for Moleskine Actions.</shortDescription>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links>
+		<link>
+			<name>Follow me on Twitter</name>
+			<url>https://www.twitter.com/strejda603</url>
+			<iconclass>fa fa-twitter</iconclass>
+		</link>
+	</links>
+</package>
