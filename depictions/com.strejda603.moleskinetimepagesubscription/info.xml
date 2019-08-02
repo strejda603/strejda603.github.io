@@ -1,6 +1,6 @@
 <package>
-	<id>com.strejda603.moleskineactionssubscription</id>
-	<name>Moleskine Actions (Subscription)</name>
+	<id>com.strejda603.moleskinetimepagesubscription</id>
+	<name>Moleskine Timepage (Subscription)</name>
 	<version>1.0.0</version>
 	<compatibility>
 		<firmware>
@@ -11,7 +11,7 @@
 	<dependencies>
 		<package>mobilesubstrate</package>
 	</dependencies>
-	<shortDescription>Patches subscription requirement for Moleskine Actions.</shortDescription>
+	<shortDescription>Patches subscription requirement for Moleskine Timepage.</shortDescription>
 	<screenshots></screenshots>
 	<changelog>
 		<change>Initial release</change>
