@@ -15,11 +15,5 @@
 	<changelog>
 		<change>Initial release</change>
 	</changelog>
-	<links>
-		<link>
-			<name>Follow me on Twitter</name>
-			<url>https://www.twitter.com/strejda603</url>
-			<iconclass>fa fa-twitter</iconclass>
-		</link>
-	</links>
+	<links></links>
 </package>
