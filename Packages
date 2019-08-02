@@ -21,10 +21,10 @@ Maintainer: strejda603
 Installed-Size: 104
 Depends: mobilesubstrate
 Filename: ./debs/com.strejda603.moleskinetimepagesubscription_1.0.0_iphoneos-arm.deb
-Size: 3360
-MD5sum: 3eff72ec64e93a5a10acda40f4ea65ff
-SHA1: 37dd87a64136b523dcd685927af34a0bc950abed
-SHA256: 86965a0e9e1eb3b6b6192df8887f7a64389507bc78ee8e4792e6fd933b2a0f38
+Size: 3372
+MD5sum: fbfdfe38418341b2f8d24040a29afc75
+SHA1: a10ecc270a8b471065dbcf6a3ca783fba89a90a5
+SHA256: 47e5966bc8f19684d3d421a7b5c25a105b5923f20ddd60cd58710756ce40d352
 Section: Tweaks
 Description: Patches subscription requirement for Moleskine Timepage.
 Author: strejda603
