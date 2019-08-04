@@ -46,6 +46,22 @@ Description: Patches subscription requirement for Moleskine Actions.
 Author: strejda603
 Name: Moleskine Actions (Subscription)
 
+Package: com.strejda603.moleskineactionssubscription
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: strejda603 <strejda603@centrum.cz>
+Installed-Size: 104
+Depends: mobilesubstrate
+Filename: ./debs/com.strejda603.moleskineactionssubscription_1.0.1_iphoneos-arm.deb
+Size: 3416
+MD5sum: 47ef228dc1bec7d7a42147334a058fdf
+SHA1: a193f1744c0458051d510b4b94d90951e67f18f8
+SHA256: 517a321b03d02f515eca940abc802a7d09b259e8548747ed9f0c8b617189f1fe
+Section: Tweaks
+Description: Patches subscription requirement for Moleskine Actions.
+Author: strejda603 <strejda603@centrum.cz>
+Name: Moleskine Actions (Subscription)
+
 Package: com.strejda603.moleskineflowsubscription
 Version: 1.0.0
 Architecture: iphoneos-arm
@@ -60,6 +76,22 @@ SHA256: 34c1c1438c2b0eda79a5ca03f188df78974836272f17bf22eeb516e1509350cb
 Section: Tweaks
 Description: Patches subscription requirement for Moleskine Flow.
 Author: strejda603
+Name: Moleskine Flow (Subscription)
+
+Package: com.strejda603.moleskineflowsubscription
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: strejda603 <strejda603@centrum.cz>
+Installed-Size: 104
+Depends: mobilesubstrate
+Filename: ./debs/com.strejda603.moleskineflowsubscription_1.0.1_iphoneos-arm.deb
+Size: 3440
+MD5sum: 7bcaece227875e19c42ecfba47c1c731
+SHA1: b7ce2de282c3943f9eba1733112aaaf097f2c49a
+SHA256: 63508d6de0542633b3478ddfeb2b18aac1a8ef2083815827d7c4b7bf063fd1bf
+Section: Tweaks
+Description: Patches subscription requirement for Moleskine Flow.
+Author: strejda603 <strejda603@centrum.cz>
 Name: Moleskine Flow (Subscription)
 
 Package: com.strejda603.moleskinetimepagesubscription
@@ -78,6 +110,22 @@ Description: Patches subscription requirement for Moleskine Timepage.
 Author: strejda603
 Name: Moleskine Timepage (Subscription)
 
+Package: com.strejda603.moleskinetimepagesubscription
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: strejda603 <strejda603@centrum.cz>
+Installed-Size: 104
+Depends: mobilesubstrate
+Filename: ./debs/com.strejda603.moleskinetimepagesubscription_1.0.1_iphoneos-arm.deb
+Size: 3468
+MD5sum: 187dd88a81fa570f9d4262d8a248df48
+SHA1: de796d2fcc530b5e948087d07f88e9a8e650b53e
+SHA256: b38ac6621ec4ca7bbab966f97277820cee4931399d3072d2b7d4bc153a247d4a
+Section: Tweaks
+Description: Patches subscription requirement for Moleskine Timepage.
+Author: strejda603 <strejda603@centrum.cz>
+Name: Moleskine Timepage (Subscription)
+
 Package: com.strejda603.scantranslatepluspremium
 Version: 1.0.0
 Architecture: iphoneos-arm
@@ -92,5 +140,21 @@ SHA256: 4c2b9101b17502b8e7822b006c89dce9526cbcb91b93031455ed7da09148ec20
 Section: Tweaks
 Description: Enables premium features.
 Author: strejda603
+Name: Scan&Translate+ (Premium)
+
+Package: com.strejda603.scantranslatepluspremium
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: strejda603 <strejda603@centrum.cz>
+Installed-Size: 104
+Depends: mobilesubstrate
+Filename: ./debs/com.strejda603.scantranslatepluspremium_1.0.1_iphoneos-arm.deb
+Size: 3284
+MD5sum: 1ad4f3d3c9d1a3fc489abf1dd37af5a3
+SHA1: f42b8ebfb348842efe7b4635d9efc87219b12f79
+SHA256: 91a98eb9834bbbc768431ac1d640b94d124b5525f84dcade548d749a9a2f66d8
+Section: Tweaks
+Description: Enables premium features.
+Author: strejda603 <strejda603@centrum.cz>
 Name: Scan&Translate+ (Premium)
 
