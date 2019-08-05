@@ -1,0 +1,20 @@
+<package>
+	<id>com.strejda603.noaaweatherradarpremium</id>
+	<name>NOAA Weather Radar (Premium)</name>
+	<version>1.0.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>7.0</miniOS>
+			<maxiOS>12.2</maxiOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+	</dependencies>
+	<shortDescription>Enables premium features.</shortDescription>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>

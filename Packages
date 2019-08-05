@@ -126,6 +126,22 @@ Description: Patches subscription requirement for Moleskine Timepage.
 Author: strejda603 <strejda603@centrum.cz>
 Name: Moleskine Timepage (Subscription)
 
+Package: com.strejda603.noaaweatherradarpremium
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: strejda603 <strejda603@centrum.cz>
+Installed-Size: 104
+Depends: mobilesubstrate
+Filename: ./debs/com.strejda603.noaaweatherradarpremium_1.0.0_iphoneos-arm.deb
+Size: 3746
+MD5sum: fcecc5c024a0de5c5f9f305c967dde70
+SHA1: c17dab616fc2d8eb6e8ea270dfb2eac1655e4517
+SHA256: 8e959f23f8f4fc2b2bd4db88b3357bc1107295543eca81f91c9e8670de0f325d
+Section: Tweaks
+Description: Enables premium features.
+Author: strejda603 <strejda603@centrum.cz>
+Name: NOAA Weather Radar (Premium)
+
 Package: com.strejda603.scantranslatepluspremium
 Version: 1.0.0
 Architecture: iphoneos-arm
