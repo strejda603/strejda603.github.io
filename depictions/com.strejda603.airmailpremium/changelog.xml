@@ -1,5 +1,9 @@
 <changelog>
 	<changes>
+		<version>1.0.2</version>
+		<change>Try of "Real Time Inbox Monitoring" fix</change>
+	</changes>
+	<changes>
 		<version>1.0.1</version>
 		<change>Popup fix</change>
 	</changes>

@@ -1,7 +1,7 @@
 <package>
 	<id>com.strejda603.airmailpremium</id>
 	<name>Airmail (Premium)</name>
-	<version>1.0.1</version>
+	<version>1.0.2</version>
 	<compatibility>
 		<firmware>
 			<miniOS>7.0</miniOS>
@@ -14,7 +14,7 @@
 	<shortDescription>Makes Airmail great again ;-)!</shortDescription>
 	<screenshots></screenshots>
 	<changelog>
-		<change>Popup fix</change>
+		<change>Try of "Real Time Inbox Monitoring" fix</change>
 	</changelog>
 	<links></links>
 </package>
