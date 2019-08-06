@@ -1,0 +1,13 @@
+{  
+   "class":"FeaturedBannersView",
+   "itemSize":"{263, 148}",
+   "itemCornerRadius":10,
+   "banners":[  
+      {  
+         "url":"http://www.cydia-news.com/wp-content/uploads/2016/05/cropped-package-270x270.png",
+         "title":"Airmail (Premium)",
+         "package":"com.strejda603.airmailpremium",
+         "hideShadow":true
+      },
+   ]
+}

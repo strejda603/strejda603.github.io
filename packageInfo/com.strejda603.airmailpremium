@@ -1,0 +1,12 @@
+{
+	"name": "AirmailPremium",
+	"version": "1.0.2",
+	"description": "<p>Makes Airmail great again ;-)!</p><p><b>NOTE:</b> This tweak was tested on iOS 11 and 12, but it may work in lower ones.</p>",
+	"screenshot": "<div class='screenshot'><img src='' alt='Screenshot > Airmail (Premium)' style='max-width: 100%;'></div>",
+	"whatsnew": "Real Time Inbox Monitoring fix",
+	"licence": "FREE",
+	"updated": "August 6, 2019",
+	"supported": "iOS 11.0 - 12.1.2",
+	"topicon": "http://www.cydia-news.com/wp-content/uploads/2016/05/cropped-package-270x270.png",
+	"title": "Airmail (Premium)"
+}

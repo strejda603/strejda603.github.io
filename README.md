@@ -1,2 +1,3 @@
-# Strejda603's Cydia repo
-This is my Cydia repository.
+## Strejda603's repo
+
+Strejda603's Cydia repository.

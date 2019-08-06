@@ -1,0 +1,230 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 10px 0;
+  background: #ffffff;
+  color: black !important;
+  font-family: "SF Pro Display", "SF Pro", "Helvetica Neue", "Roboto", "Segoe UI", Helvetica, Arial, Verdana, sans-serif !important;
+}
+
+hr.top {
+  border: 1.2px solid black;
+}
+
+.toplogo {
+  width: 90px;
+  display: block;
+  margin: 50px auto;
+}
+
+.topcontent {
+  width: 350px !important;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: white;
+  padding: 1px;
+  margin: auto;
+  margin-top: 40px;
+}
+
+@media (max-width: 421px) {
+    img.topicon { width: 60px; }
+    h1.title { 
+      font-size: 33px;
+      margin-top: 5px;
+    }
+    p { font-size: 15px; }
+    li { font-size: 15px; }
+    td { font-size: 15px; }
+    div.wrapper { margin-left: -38px !important; }
+    a { margin: 0 0 0 70px !important; }
+}
+
+.wrapper {
+}
+
+.topicon {
+  width: 70px;
+  display: inline-block;
+  margin: 0 10px auto;
+}
+
+.toptitle {
+  position: relative;
+  align: center;
+  margin: 10px 0 20px 0;
+  font-weight: bold;
+}
+
+.row {
+  padding: 5px 15px;
+}
+
+.content {
+  padding-top: 0;
+}
+
+.list-wrapper {
+  background: #ffffff;
+  margin-top: 10px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+}
+
+.cards-list {
+  position: relative;
+  padding: 15px 15px 50px;
+  padding-bottom: calc(20px + env(safe-area-inset-bottom)); /* For iPhone X */
+  max-width: 450px;
+  margin: auto;
+}
+
+.card {
+  background: white;
+  position: relative;
+  width: 100%;
+  border-radius: 20px !important;
+  min-height: 100px;
+  overflow: hidden;
+  box-shadow: 0px 10px 50px 0px rgba(0, 0, 0, 0.12);
+  transition: opacity 0.2s ease, box-shadow 0.2s ease;
+  opacity: 1;
+  margin-bottom: 40px;
+}
+
+.card.hover,
+.card:hover {
+  box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.1);
+}
+
+.card-content {
+  position: relative;
+  width: 100% !important;
+  height: 100%;
+  background: rgba(255, 255, 255, 0);
+  overflow: hidden;
+  transition: border-radius 0.15s ease;
+  border-radius: 20px;
+  cursor: pointer;
+}
+
+.content-holder {
+  max-width: 600px;
+  padding: 0;
+  z-index: 1;
+  height: 100%;
+  background-color: transparent;
+  overflow: hidden;
+  position: relative;
+}
+
+.inner-content {
+  top: 1vh;
+  padding: 20px;
+  position: relative;
+  background-color: white;
+}
+
+.info-holder {
+  display: flex;
+  align-items: center;
+}
+
+.date-category {
+  text-transform: uppercase;
+  font-size: 12px;
+  opacity: 0.5;
+  margin-bottom: 0;
+  flex: 1;
+  margin: 0 1.4rem 0 0;
+}
+
+.title {
+  position: relative;
+  align: center;
+  margin: 10px 0 20px 0;
+  font-weight: bold;
+}
+
+.description {
+  font-size: 16px;
+  line-height: 1.5;
+  opacity: 1.0;
+}
+
+.screenshots {
+  display: block;
+  white-space: nowrap;
+  overflow-x: scroll;
+}
+
+.screenshots .screenshot {
+  border-radius: 13px;
+  display: inline-block;
+  padding: 5px;
+  width: 50.0%;
+}
+
+.screenshots img {
+  border-radius: 4px;
+}
+
+.button {
+  display: inline-block;
+  border-radius: 4px;
+  background-color: #b5b3b3;
+  border: none;
+  color: black;
+  text-align: center;
+  font-size: 16px;
+  padding: 5px;
+  width: 100%;
+  transition: all 0.5s;
+  cursor: pointer;
+  margin: 0 0 5px;
+}
+
+.button span {
+  cursor: pointer;
+  display: inline-block;
+  position: relative;
+  transition: 0.5s;
+}
+
+.button span:after {
+  content: '\00bb';
+  position: absolute;
+  opacity: 0;
+  top: 0;
+  right: -20px;
+  transition: 0.5s;
+}
+
+.button:hover span {
+  padding-right: 25px;
+}
+
+.button:hover span:after {
+  opacity: 1;
+  right: 0;
+}
+
+.fab {
+  padding: 0px;
+  font-size: 50px;
+  width: 30px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 50px;
+  border-radius: 50%;
+}
+
+.fab:hover {
+    opacity: 0.7;
+}
