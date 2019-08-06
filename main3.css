@@ -228,3 +228,17 @@ hr.top {
 .fab:hover {
     opacity: 0.7;
 }
+
+.fas {
+  padding: 0px;
+  font-size: 50px;
+  width: 30px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 50px;
+  border-radius: 50%;
+}
+
+.fas:hover {
+    opacity: 0.7;
+}
