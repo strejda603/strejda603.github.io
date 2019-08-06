@@ -11,7 +11,10 @@
 	<dependencies>
 		<package>mobilesubstrate</package>
 	</dependencies>
-	<shortDescription>Patches subscription requirement for Moleskine Flow.</shortDescription>
+	<shortDescription></shortDescription>
+	<descriptionlist>
+		<description>Patches subscription requirement for Moleskine Flow.</description>
+	</descriptionlist>
 	<screenshots></screenshots>
 	<changelog>
 		<change>Popup fix</change>

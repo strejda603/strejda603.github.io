@@ -11,10 +11,13 @@
 	<dependencies>
 		<package>mobilesubstrate</package>
 	</dependencies>
-	<shortDescription>Makes Airmail great again ;-)!</shortDescription>
+	<shortDescription></shortDescription>
+	<descriptionlist>
+		<description>Makes Airmail great again ;-)!</description>
+	</descriptionlist>
 	<screenshots></screenshots>
 	<changelog>
-		<change>Try of "Real Time Inbox Monitoring" fix</change>
+		<change>"Real Time Inbox Monitoring" fix</change>
 	</changelog>
 	<links></links>
 </package>

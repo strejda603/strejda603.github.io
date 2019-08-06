@@ -11,7 +11,10 @@
 	<dependencies>
 		<package>mobilesubstrate</package>
 	</dependencies>
-	<shortDescription>Enables premium features.</shortDescription>
+	<shortDescription></shortDescription>
+	<descriptionlist>
+		<description>Enables premium features.</description>
+	</descriptionlist>
 	<screenshots></screenshots>
 	<changelog>
 		<change>Popup fix</change>
