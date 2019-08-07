@@ -2,7 +2,7 @@
 	"name": "NOAAWeatherRadar",
 	"version": "1.0.0",
 	"description": "<p>Enables premium features.</p><p><b>NOTE:</b> This tweak was tested on iOS 11 and 12, but it may work in lower ones.</p>",
-	"screenshot": "<div class='screenshot'><img src='' alt='Screenshot > NOAA Weather Radar (Premium)' style='max-width: 100%;'></div>",
+	"screenshot": "<img class='screenshot' src='https://strejda603.github.io/img/noaaweather.png' alt='Screenshot > NOAA Weather Radar (Premium)' style='max-width: 100%;'/>",
 	"whatsnew": "Initial release",
 	"licence": "FREE",
 	"updated": "August 4, 2019",
