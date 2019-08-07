@@ -2,7 +2,7 @@
 	"name": "MoleskineActions",
 	"version": "1.0.1",
 	"description": "<p>Patches subscription requirement for Moleskine Actions.</p><p><b>NOTE:</b> This tweak was tested on iOS 11 and 12, but it may work in lower ones.</p>",
-	"screenshot": "<div class='screenshot'><img src='https://strejda603.github.io/img/actions1.png' alt='Screenshot1 > Moleskine Actions (Subscription)' style='max-width: 100%;'><img src='https://strejda603.github.io/img/actions2.png' alt='Screenshot2 > Moleskine Actions (Subscription)' style='max-width: 100%;'></div>",
+	"screenshot": "<img class='screenshot' src='https://strejda603.github.io/img/actions1.png' alt='Screenshot1 > Moleskine Actions (Subscription)' style='max-width: 100%;'/><img class='screenshot' src='https://strejda603.github.io/img/actions2.png' alt='Screenshot2 > Moleskine Actions (Subscription)' style='max-width: 100%;'/>",
 	"whatsnew": "Popup fix",
 	"licence": "FREE",
 	"updated": "August 4, 2019",
