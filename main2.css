@@ -149,7 +149,7 @@ hr.top {
 .content-holder {
   display: flex;
   max-width: 800px;
-  padding: 0;
+  padding: 0 0 10px 0;
   z-index: 1;
   height: 100%;
   overflow: hidden;
