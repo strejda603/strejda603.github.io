@@ -4,7 +4,7 @@
    "itemCornerRadius":10,
    "banners":[  
       {  
-         "url":"https://strejda603.github.io/img/toss.png",
+         "url":"https://strejda603.github.io/img/toss.jpg",
          "title":"Airmail (Premium)",
          "package":"com.strejda603.airmailpremium",
          "hideShadow":true
