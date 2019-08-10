@@ -11,8 +11,12 @@
                     "itemSize": "{160, 275.41333333333336}",
                     "screenshots": [
                         {
-                            "accessibilityText": "Screenshot0",
-                            "url": ""
+                            "accessibilityText": "Screenshot1",
+                            "url": "https://strejda603.github.io/img/flow1.png"
+                        },
+                        {
+                            "accessibilityText": "Screenshot2",
+                            "url": "https://strejda603.github.io/img/flow2.png"
                         }
                     ]
                 },
