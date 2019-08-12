@@ -1,0 +1,10 @@
+Package: com.strejda603.moleskinetimepagesubscription
+Name: Moleskine Timepage (Subscription)
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Patches subscription requirement for Moleskine Timepage.
+Maintainer: strejda603 <strejda603@centrum.cz>
+Author: strejda603 <strejda603@centrum.cz>
+Section: Tweaks
+Version: 1.0.1
+Installed-Size: 104

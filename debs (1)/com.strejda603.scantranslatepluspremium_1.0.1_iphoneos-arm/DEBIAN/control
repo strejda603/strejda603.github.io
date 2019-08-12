@@ -1,0 +1,10 @@
+Package: com.strejda603.scantranslatepluspremium
+Name: Scan&Translate+ (Premium)
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Enables premium features.
+Maintainer: strejda603 <strejda603@centrum.cz>
+Author: strejda603 <strejda603@centrum.cz>
+Section: Tweaks
+Version: 1.0.1
+Installed-Size: 104

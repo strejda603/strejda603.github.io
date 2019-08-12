@@ -1,0 +1,10 @@
+Package: com.strejda603.moleskineflowsubscription
+Name: Moleskine Flow (Subscription)
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Patches subscription requirement for Moleskine Flow.
+Maintainer: strejda603
+Author: strejda603
+Section: Tweaks
+Version: 1.0.0
+Installed-Size: 104
