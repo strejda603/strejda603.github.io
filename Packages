@@ -5,10 +5,10 @@ Maintainer: strejda603 <strejda603@centrum.cz>
 Installed-Size: 104
 Depends: mobilesubstrate
 Filename: ./debs/com.strejda603.airmailpremium_1.0.0_iphoneos-arm.deb
-Size: 3246
-MD5sum: 70b8aa30b728fd4dd0461b0db0fccf00
-SHA1: 5ab43efbc5e15c23baf77dd23033a019258d9755
-SHA256: 332a0308c183649c3810993ce38e397a7542662aaa09091e2580080cbfa4ac19
+Size: 4616
+MD5sum: a441226611cbd29baa19a7861abfd58f
+SHA1: b1eb7ce6d4ff45a09e2365e3e0dbca7fc5c9fee2
+SHA256: 0dc3c44c6930167aea30e22af557c7580d36c64c7896539eba44163fd7a4eb4b
 Section: Tweaks
 Description: Makes Airmail great again ;-)!
 Author: strejda603 <strejda603@centrum.cz>
@@ -23,10 +23,10 @@ Maintainer: strejda603 <strejda603@centrum.cz>
 Installed-Size: 104
 Depends: mobilesubstrate
 Filename: ./debs/com.strejda603.airmailpremium_1.0.1_iphoneos-arm.deb
-Size: 3322
-MD5sum: 0723677b0dfdd080f368eb741d1c552c
-SHA1: c2a401007854c05cb3c83fdeaa2500ca7a62d423
-SHA256: fbb7487d1b94bcb0f3b59bdd43e1d4dbc14033df84803aad581e5ea7a84d227b
+Size: 4696
+MD5sum: 964b80daaf7ddf08999f2183f5e15cf9
+SHA1: b39149e9d4fa23286646f1801b44763ff501016b
+SHA256: f6dba4f27f7d742cfff6f32bb32ebc0049d59c6fafa33f028c95586f7a58482a
 Section: Tweaks
 Description: Makes Airmail great again ;-)!
 Author: strejda603 <strejda603@centrum.cz>
@@ -41,10 +41,10 @@ Maintainer: strejda603 <strejda603@centrum.cz>
 Installed-Size: 104
 Depends: mobilesubstrate
 Filename: ./debs/com.strejda603.airmailpremium_1.0.2_iphoneos-arm.deb
-Size: 3462
-MD5sum: ab0724e032e1d9a0de3f8f9dadce952b
-SHA1: ca2c7e636d024d90976d6fd0b40e7a9a289f3e12
-SHA256: a312ce9204e9a308b748b175683211c60c9f17f527ce666faf067647d9c8f1d7
+Size: 4886
+MD5sum: 8bda3c27f792f5ea8e0d334e78a0a819
+SHA1: 58d23697f90cde37b5c84ee93b5c75e6525dbdea
+SHA256: 58dd4d0966f371bdf356e2f2aabca0f3cdcf3ffcc3ffec9cefa812b2ff987549
 Section: Tweaks
 Description: Makes Airmail great again ;-)!
 Author: strejda603 <strejda603@centrum.cz>
@@ -59,10 +59,10 @@ Maintainer: strejda603 <strejda603@centrum.cz>
 Installed-Size: 104
 Depends: mobilesubstrate
 Filename: ./debs/com.strejda603.moleskineactionssubscription_1.0.0_iphoneos-arm.deb
-Size: 3318
-MD5sum: 36082e46ae83944d3bfc8e2f47e944b3
-SHA1: d9a87bda76f19628f86f0c4e093bbc64a0feb36a
-SHA256: 28dab86b7d7b0f9be1a276ed57469cf90d5c1f36f74f1c5a832cb5fd81adb3ae
+Size: 4714
+MD5sum: 23ba83040f653c354d518db8b762e801
+SHA1: cd312ae4730bfc3679f3da5e4e5be80a7c6cc24d
+SHA256: 1b3ab864eb779ebbf2fddb012e1ce20982bca23a2e706fcf84617e2618bb6b52
 Section: Tweaks
 Description: Patches subscription requirement for Moleskine Actions.
 Author: strejda603 <strejda603@centrum.cz>
@@ -77,10 +77,10 @@ Maintainer: strejda603 <strejda603@centrum.cz>
 Installed-Size: 104
 Depends: mobilesubstrate
 Filename: ./debs/com.strejda603.moleskineactionssubscription_1.0.1_iphoneos-arm.deb
-Size: 3416
-MD5sum: 47ef228dc1bec7d7a42147334a058fdf
-SHA1: a193f1744c0458051d510b4b94d90951e67f18f8
-SHA256: 517a321b03d02f515eca940abc802a7d09b259e8548747ed9f0c8b617189f1fe
+Size: 4828
+MD5sum: 5a214f5354bf1ff5bacc352df0eac4a3
+SHA1: c351c0120e6d845695cab2206db50d09755b172f
+SHA256: 9f22a0f705c9614368765d96e633a50b294ad6d01727fb03b5b4a88b53f4b6fe
 Section: Tweaks
 Description: Patches subscription requirement for Moleskine Actions.
 Author: strejda603 <strejda603@centrum.cz>
@@ -95,10 +95,10 @@ Maintainer: strejda603 <strejda603@centrum.cz>
 Installed-Size: 104
 Depends: mobilesubstrate
 Filename: ./debs/com.strejda603.moleskineflowsubscription_1.0.0_iphoneos-arm.deb
-Size: 3342
-MD5sum: 06e06d485e3a5b6cd15727dc995cbd50
-SHA1: c445a7777ea4f602c0d452b6fd128ec785742b1b
-SHA256: 34c1c1438c2b0eda79a5ca03f188df78974836272f17bf22eeb516e1509350cb
+Size: 4740
+MD5sum: d376dc2106066f4ca97f1ec24d269652
+SHA1: a1f391e812c0bb3533c6cf1fc645d81431de8771
+SHA256: 91454be28544bec7d32b438cfcda49d3491d606ddaaccab8d9e135e4799a147a
 Section: Tweaks
 Description: Patches subscription requirement for Moleskine Flow.
 Author: strejda603 <strejda603@centrum.cz>
@@ -113,10 +113,10 @@ Maintainer: strejda603 <strejda603@centrum.cz>
 Installed-Size: 104
 Depends: mobilesubstrate
 Filename: ./debs/com.strejda603.moleskineflowsubscription_1.0.1_iphoneos-arm.deb
-Size: 3440
-MD5sum: 7bcaece227875e19c42ecfba47c1c731
-SHA1: b7ce2de282c3943f9eba1733112aaaf097f2c49a
-SHA256: 63508d6de0542633b3478ddfeb2b18aac1a8ef2083815827d7c4b7bf063fd1bf
+Size: 4832
+MD5sum: 6abc23b10152f6510f28e6843b6ff425
+SHA1: 491b50f46ef29b14ad1599b9e0275f00443130db
+SHA256: f81161fd789b5e505ab1014b33289f8d8a8e82c401523de85f5623975e5d5d61
 Section: Tweaks
 Description: Patches subscription requirement for Moleskine Flow.
 Author: strejda603 <strejda603@centrum.cz>
@@ -131,10 +131,10 @@ Maintainer: strejda603 <strejda603@centrum.cz>
 Installed-Size: 104
 Depends: mobilesubstrate
 Filename: ./debs/com.strejda603.moleskinetimepagesubscription_1.0.0_iphoneos-arm.deb
-Size: 3372
-MD5sum: fbfdfe38418341b2f8d24040a29afc75
-SHA1: a10ecc270a8b471065dbcf6a3ca783fba89a90a5
-SHA256: 47e5966bc8f19684d3d421a7b5c25a105b5923f20ddd60cd58710756ce40d352
+Size: 4786
+MD5sum: 87b532f6c73c987e7e9b4520f3e698ab
+SHA1: 4bd65724a6478f7e3021f568cb76a0431b9245a9
+SHA256: 0ef2306b0198d58cbd6bbf3c0cf1847a3cb26691bb59f6a63ec951064a14dbd7
 Section: Tweaks
 Description: Patches subscription requirement for Moleskine Timepage.
 Author: strejda603 <strejda603@centrum.cz>
@@ -149,10 +149,10 @@ Maintainer: strejda603 <strejda603@centrum.cz>
 Installed-Size: 104
 Depends: mobilesubstrate
 Filename: ./debs/com.strejda603.moleskinetimepagesubscription_1.0.1_iphoneos-arm.deb
-Size: 3468
-MD5sum: 187dd88a81fa570f9d4262d8a248df48
-SHA1: de796d2fcc530b5e948087d07f88e9a8e650b53e
-SHA256: b38ac6621ec4ca7bbab966f97277820cee4931399d3072d2b7d4bc153a247d4a
+Size: 4880
+MD5sum: 0f9c5ce64f5c2a1917786b434c0423bd
+SHA1: a89a96ede4b5f83abe68a02d96864cbd8e28ed3c
+SHA256: 373d5e644fdfe865ed267ef2aba316aed962b5ba046d2d29df497478a0784b35
 Section: Tweaks
 Description: Patches subscription requirement for Moleskine Timepage.
 Author: strejda603 <strejda603@centrum.cz>
@@ -167,10 +167,10 @@ Maintainer: strejda603 <strejda603@centrum.cz>
 Installed-Size: 104
 Depends: mobilesubstrate
 Filename: ./debs/com.strejda603.noaaweatherradarpremium_1.0.0_iphoneos-arm.deb
-Size: 3746
-MD5sum: fcecc5c024a0de5c5f9f305c967dde70
-SHA1: c17dab616fc2d8eb6e8ea270dfb2eac1655e4517
-SHA256: 8e959f23f8f4fc2b2bd4db88b3357bc1107295543eca81f91c9e8670de0f325d
+Size: 5236
+MD5sum: 4560522cdda6400ccd61df681d1f63aa
+SHA1: 42e18bfcdf595cc0f18f9b6d88e93692ac94998f
+SHA256: e2a331c4ac5d02031dd6145bb749626e4d068f02683c979f4f6ea15d798a417b
 Section: Tweaks
 Description: Enables premium features.
 Author: strejda603 <strejda603@centrum.cz>
@@ -185,10 +185,10 @@ Maintainer: strejda603 <strejda603@centrum.cz>
 Installed-Size: 104
 Depends: mobilesubstrate
 Filename: ./debs/com.strejda603.scantranslatepluspremium_1.0.0_iphoneos-arm.deb
-Size: 3178
-MD5sum: 88a9ae5b727c3a21d9ae049a88418244
-SHA1: 10e745661f5e4c592daf048443769a9ce16e17be
-SHA256: 4c2b9101b17502b8e7822b006c89dce9526cbcb91b93031455ed7da09148ec20
+Size: 4484
+MD5sum: afe7b3461e385413d6ad07b0ff5dbee6
+SHA1: 7b1f27b1bdfb96fd979aa7b467dc926e25bdc73b
+SHA256: 0327c071427c0f400d73288e4bc1bc107c633111ea1663d6f91311a51b0ba0ed
 Section: Tweaks
 Description: Enables premium features.
 Author: strejda603 <strejda603@centrum.cz>
@@ -203,10 +203,10 @@ Maintainer: strejda603 <strejda603@centrum.cz>
 Installed-Size: 104
 Depends: mobilesubstrate
 Filename: ./debs/com.strejda603.scantranslatepluspremium_1.0.1_iphoneos-arm.deb
-Size: 3284
-MD5sum: 1ad4f3d3c9d1a3fc489abf1dd37af5a3
-SHA1: f42b8ebfb348842efe7b4635d9efc87219b12f79
-SHA256: 91a98eb9834bbbc768431ac1d640b94d124b5525f84dcade548d749a9a2f66d8
+Size: 4590
+MD5sum: 78390fd278f096da8bce159d13c78b36
+SHA1: 68a11fc75667762b936f0169ff2b45b1a3f90573
+SHA256: d65286f0fd3e9d961ce8818190986471efbd93790815da8624eaea339aebd6ae
 Section: Tweaks
 Description: Enables premium features.
 Author: strejda603 <strejda603@centrum.cz>
