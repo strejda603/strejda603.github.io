@@ -16,6 +16,9 @@ window.onload = function () {
   
   document.getElementById("ScanTranslatePlus").addEventListener("click", packagesEventHandler);
   document.getElementById("GetScanTranslatePlus").addEventListener("click", packagesEventHandler);
+
+  document.getElementById("WeatherProPremium").addEventListener("click", packagesEventHandler);
+  document.getElementById("GetWeatherProPremium").addEventListener("click", packagesEventHandler);
 }
 
 function packagesEventHandler(e) {
@@ -59,7 +62,14 @@ function packagesEventHandler(e) {
       window.open("https://strejda603.github.io/description.html?id=com.strejda603.scantranslatepluspremium", "_self");
       break;
     case "GetScanTranslatePlus":
-      window.open("https://cydia.saurik.com/api/share#?source=https://strejda603.github.io/&package=com.strejda603.scantranslatepluspremiumm");
+      window.open("https://cydia.saurik.com/api/share#?source=https://strejda603.github.io/&package=com.strejda603.scantranslatepluspremium");
+      break;
+
+    case "WeatherProPremium":
+      window.open("https://strejda603.github.io/description.html?id=com.strejda603.weatherpropremium", "_self");
+      break;
+    case "GetWeatherProPremium":
+      window.open("https://cydia.saurik.com/api/share#?source=https://strejda603.github.io/&package=com.strejda603.weatherpropremium");
       break;
   }
   e.stopPropagation();

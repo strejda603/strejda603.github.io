@@ -214,3 +214,21 @@ Depiction: https://strejda603.github.io/description.html?id=com.strejda603.scant
 Name: Scan&Translate+ (Premium)
 Sileodepiction: https://strejda603.github.io/sileo-depictions/com.strejda603.scantranslatepluspremium
 
+Package: com.strejda603.weatherpropremium
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: strejda603 <strejda603@centrum.cz>
+Installed-Size: 104
+Depends: mobilesubstrate
+Filename: ./debs/com.strejda603.weatherpropremium_1.0.0_iphoneos-arm.deb
+Size: 3308
+MD5sum: 547b4c1ff538d337f0e2ad827be5ede2
+SHA1: e0809cf9c58354276efd76d1d3b13f05a0df8d07
+SHA256: b0252798aaaf8f605d9b55302e2186e7b58e1b2b13546b4bbd6cc003d8ae0f0c
+Section: Tweaks
+Description: Enables premium features.
+Author: strejda603 <strejda603@centrum.cz>
+Depiction: https://strejda603.github.io/description.html?id=com.strejda603.weatherpropremium
+Name: WeatherPro (Premium)
+Sileodepiction: https://strejda603.github.io/sileo-depictions/com.strejda603.weatherpropremium
+
