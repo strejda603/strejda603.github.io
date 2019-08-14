@@ -20,6 +20,9 @@ function loadPackageInfo() {
 			if(decodeResp.description) {
 				$("#description").html(decodeResp.description);
 			}
+			if(decodeResp.ios) {
+				$("#ios").html(decodeResp.ios);
+			}
 			if(decodeResp.screenshot) {
 				$("#screenshot").html(decodeResp.screenshot);
 			}
