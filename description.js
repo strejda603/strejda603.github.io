@@ -9,10 +9,10 @@ function iOSversion() {
 }
 ver = iOSversion();
 if (ver[0] >= 11 || (ver[0] === 12 && ver[1] <= 2)) {
-	document.getElementById('version').innerHTML='<p><strong>✓</strong> Your device is supported.</p>';
+	document.getElementById('ios').innerHTML='<p><strong>✓</strong> Your device is supported.</p>';
 }
 else {
-	document.getElementById('version').innerHTML='<p><strong>x</strong> Your device is not supported.</p>';
+	document.getElementById('ios').innerHTML='<p><strong>x</strong> Your device is not supported.</p>';
 }
 
 function loadPackageInfo() {
