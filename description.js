@@ -1,9 +1,18 @@
-function iOSVersion() {
-	var match = (navigator.appVersion).split('OS ');
-	if (match.length > 1) {
-		return match[1].split(' ')[0].split('_').join('.');
+function iOSversion() {
+	if (/iP(hone|od|ad)/.test(navigator.platform)) {
+		var v = (navigator.appVersion).match(/OS (\d+)_(\d+)_?(\d+)?/);
+		return [parseInt(v[1], 10), parseInt(v[2], 10), parseInt(v[3] || 0, 10)];
 	}
-	return false;
+	else {
+		return 0;
+	}
+}
+ver = iOSversion();
+if (ver[0] >= 11 || (ver[0] === 12 && ver[1] <= 2)) {
+	document.getElementById('version').innerHTML='<p><strong>✓</strong> Your device is supported.</p>';
+}
+else {
+	document.getElementById('version').innerHTML='<p><strong>x</strong> Your device is not supported.</p>';
 }
 
 function loadPackageInfo() {
