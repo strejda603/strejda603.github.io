@@ -24,7 +24,7 @@
                     "title": "markdown-description",
                     "useBoldText": true,
                     "class": "DepictionMarkdownView",
-                    "markdown": "Makes Airmail great again ;-)!\r\n\**NOTE:** This tweak was tested on iOS 11 and 12, but it may work in lower ones.\r\n\r\n",
+                    "markdown": "Makes Airmail great again ;-)!\r\n  **NOTE:** This tweak was tested on iOS 11 and 12, but it may work in lower ones.\r\n\r\n",
                     "useBottomMargin": false
                 },
                 {
