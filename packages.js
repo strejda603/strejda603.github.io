@@ -13,9 +13,15 @@ window.onload = function () {
 
   document.getElementById("NOAAWeatherRadar").addEventListener("click", packagesEventHandler);
   document.getElementById("GetNOAAWeatherRadar").addEventListener("click", packagesEventHandler);
+
+  document.getElementById("PDFExpert7PRO").addEventListener("click", packagesEventHandler);
+  document.getElementById("GetPDFExpert7PRO").addEventListener("click", packagesEventHandler);
   
   document.getElementById("ScanTranslatePlus").addEventListener("click", packagesEventHandler);
   document.getElementById("GetScanTranslatePlus").addEventListener("click", packagesEventHandler);
+
+  document.getElementById("StrikeWriterPublisherPremium").addEventListener("click", packagesEventHandler);
+  document.getElementById("GetStrikeWriterPublisherPremium").addEventListener("click", packagesEventHandler);
 
   document.getElementById("WeatherProPremium").addEventListener("click", packagesEventHandler);
   document.getElementById("GetWeatherProPremium").addEventListener("click", packagesEventHandler);
@@ -58,11 +64,25 @@ function packagesEventHandler(e) {
       window.open("https://cydia.saurik.com/api/share#?source=https://strejda603.github.io/&package=com.strejda603.noaaweatherradarpremium");
       break;
 
+    case "PDFExpert7PRO":
+      window.open("https://strejda603.github.io/description.html?id=com.strejda603.pdfexpert7pro", "_self");
+      break;
+    case "GetPDFExpert7PRO":
+      window.open("https://cydia.saurik.com/api/share#?source=https://strejda603.github.io/&package=com.strejda603.pdfexpert7pro");
+      break;
+
     case "ScanTranslatePlus":
       window.open("https://strejda603.github.io/description.html?id=com.strejda603.scantranslatepluspremium", "_self");
       break;
     case "GetScanTranslatePlus":
       window.open("https://cydia.saurik.com/api/share#?source=https://strejda603.github.io/&package=com.strejda603.scantranslatepluspremium");
+      break;
+
+    case "StrikeWriterPublisherPremium":
+      window.open("https://strejda603.github.io/description.html?id=com.strejda603.strikewriterpublisherpremium", "_self");
+      break;
+    case "GetStrikeWriterPublisherPremium":
+      window.open("https://cydia.saurik.com/api/share#?source=https://strejda603.github.io/&package=com.strejda603.strikewriterpublisherpremium");
       break;
 
     case "WeatherProPremium":

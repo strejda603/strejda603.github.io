@@ -178,6 +178,24 @@ Depiction: https://strejda603.github.io/description.html?id=com.strejda603.noaaw
 Name: NOAA Weather Radar (Premium)
 Sileodepiction: https://strejda603.github.io/sileo-depictions/com.strejda603.noaaweatherradarpremium
 
+Package: com.strejda603.pdfexpert7pro
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: strejda603 <strejda603@centrum.cz>
+Installed-Size: 104
+Depends: mobilesubstrate
+Filename: ./debs/com.strejda603.pdfexpert7pro_1.0.0_iphoneos-arm.deb
+Size: 3266
+MD5sum: 7ae5884d01137d22e6064df333fb02ee
+SHA1: 14efc2ab31bf595ae3ed0a92ac7b9b1a2c23db67
+SHA256: 71daadb276cc0c240e93e9c317c7b91cc3c92b0483ea0f92d403e5eb8b449080
+Section: Tweaks
+Description: Enables PRO features.
+Author: strejda603 <strejda603@centrum.cz>
+Depiction: https://strejda603.github.io/description.html?id=com.strejda603.pdfexpert7pro
+Name: PDF Expert 7 (PRO)
+Sileodepiction: https://strejda603.github.io/sileo-depictions/com.strejda603.pdfexpert7pro
+
 Package: com.strejda603.scantranslatepluspremium
 Version: 1.0.0
 Architecture: iphoneos-arm
@@ -213,6 +231,24 @@ Author: strejda603 <strejda603@centrum.cz>
 Depiction: https://strejda603.github.io/description.html?id=com.strejda603.scantranslatepluspremium
 Name: Scan&Translate+ (Premium)
 Sileodepiction: https://strejda603.github.io/sileo-depictions/com.strejda603.scantranslatepluspremium
+
+Package: com.strejda603.strikewriterpublisherpremium
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: strejda603 <strejda603@centrum.cz>
+Installed-Size: 104
+Depends: mobilesubstrate
+Filename: ./debs/com.strejda603.strikewriterpublisherpremium_1.0.0_iphoneos-arm.deb
+Size: 3286
+MD5sum: 21642deb3708ce6f529fbb826cb9bea0
+SHA1: eed4fafb98b78124ca52cecd82a9dd9410af3cb9
+SHA256: 663f6fd1f839e6838d02bce495784d7efeb3fbd4d36fdddae558958be0139902
+Section: Tweaks
+Description: Enables premium features.
+Author: strejda603 <strejda603@centrum.cz>
+Depiction: https://strejda603.github.io/description.html?id=com.strejda603.strikewriterpublisherpremium
+Name: Strike Writer & Publisher (Premium)
+Sileodepiction: https://strejda603.github.io/sileo-depictions/com.strejda603.strikewriterpublisherpremium
 
 Package: com.strejda603.weatherpropremium
 Version: 1.0.0
