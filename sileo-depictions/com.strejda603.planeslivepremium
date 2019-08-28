@@ -11,12 +11,8 @@
                     "itemSize": "{160, 275.41333333333336}",
                     "screenshots": [
                         {
-                            "accessibilityText": "Screenshot1",
-                            "url": "https://strejda603.github.io/img/weatherpro1.png"
-                        },
-                        {
-                            "accessibilityText": "Screenshot2",
-                            "url": "https://strejda603.github.io/img/weatherpro2.png"
+                            "accessibilityText": "Screenshot",
+                            "url": ""
                         }
                     ]
                 },
@@ -41,7 +37,7 @@
                 },
                 {
                     "title": "Released",
-                    "text": "Aug 13, 2019",
+                    "text": "Aug 28, 2019",
                     "class": "DepictionTableTextView"
                 },
                 {

@@ -12,3 +12,8 @@ xz -5fkev Packages > Packages.xz
 
 echo lzma compressing
 xz -5fkev --format=lzma Packages > Packages.lzma
+
+#chmod
+chmod +x packageInfo/*
+
+chmod +x sileo-depictions/*

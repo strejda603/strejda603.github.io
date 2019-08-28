@@ -2,11 +2,11 @@
 	"name": "PDFExpert7PRO",
 	"version": "1.0.0",
 	"description": "<p>Enables PRO features.</p><p><b>NOTE:</b> This tweak was tested on iOS 11 and 12, but it may work in lower ones.</p>",
-	"screenshot": "<img class='screenshot' src='' alt='Screenshot > PDF Expert 7 (PRO)' style='max-width: 100%;'/>",
+	"screenshot": "<img class='screenshot' src='https://strejda603.github.io/img/pdfexpert.png' alt='Screenshot > PDF Expert 7 (PRO)' style='max-width: 100%;'/>",
 	"whatsnew": "Initial release",
 	"licence": "FREE",
 	"updated": "August 20, 2019",
-	"supported": "iOS 11.0 - 12.2",
+	"supported": "iOS 11.0 - 12.4",
 	"topicon": "https://strejda603.github.io/img/tweak-default.png",
 	"title": "PDF Expert 7 (PRO)"
 }
