@@ -152,6 +152,12 @@ hr.top {
   font-weight: bold;
 }
 
+.ios {
+  font-size: 16px;
+  line-height: 1.5;
+  opacity: 1.0;
+}
+
 .description {
   font-size: 16px;
   line-height: 1.5;
