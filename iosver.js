@@ -13,8 +13,8 @@ function iOSversion() {
 	}
 }
 
-var maxVersion = document.getElementById('maxios').innerHTML;
-var minVersion = document.getElementById('minios').innerHTML;
+var maxios = document.getElementById('maxios').innerHTML;
+var minios = document.getElementById('minios').innerHTML;
 var version = iOSversion();
 var versionNumber = parseFloat(version[0] + "." + version[1]);
 
