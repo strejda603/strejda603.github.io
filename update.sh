@@ -1,19 +1,15 @@
 #!/bin/sh
 
 #packages
-echo building package list
+echo "Building Packages list..."
 dpkg-scanpackages -m ./debs > Packages
 
-echo bzip compressing
+echo "Compressing Packages..."
 bzip2 -5fkv Packages > Packages.bz2
-
-echo xz compressing
 xz -5fkev Packages > Packages.xz
-
-echo lzma compressing
 xz -5fkev --format=lzma Packages > Packages.lzma
 
 #chmod
+echo "Changing permissions..."
 chmod +x packageInfo/*
-
 chmod +x sileo-depictions/*
