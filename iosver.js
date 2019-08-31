@@ -1,3 +1,4 @@
+window.onload = function() {
 //Thank you Matchstic, you beautiful person
 const VERSION_CHECK_SUPPORTED = "<p>iOS %s is supported. ✓</p>";
 const VERSION_CHECK_UNSUPPORTED = "<p>iOS %s is not supported. ✕</p>";
@@ -31,3 +32,4 @@ var versionNumber = parseFloat(version[0] + "." + version[1]);
 		document.getElementById("ios").innerHTML=VERSION_CHECK_UNSUPPORTED.replace("%s", versionNumber);
 		document.body.style.setProperty("--title-color", "rgba(192,57,43, 0.5)");
 	}
+}
