@@ -6,7 +6,7 @@ Description: Enables premium features.
 Maintainer: strejda603 <strejda603@centrum.cz>
 Author: strejda603 <strejda603@centrum.cz>
 Depiction: https://strejda603.github.io/description.html?id=com.strejda603.weatherpropremium
-Sileodepiction: https://strejda603.github.io/sileo-depictions/com.strejda603.weatherpropremium
+Sileodepiction: https://strejda603.github.io/sileo-depictions/com.strejda603.weatherpropremium.json
 Section: Tweaks
 Version: 1.0.0
 Installed-Size: 104
