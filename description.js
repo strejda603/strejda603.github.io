@@ -19,16 +19,16 @@ var version = iOSversion();
 var versionNumber = parseFloat(version[0] + "." + version[1]);
 
 	if(versionNumber >= minios && version <= maxios) {
-		document.getElementById('ios').innerHTML=VERSION_CHECK_SUPPORTED.replace("%s", versionNumber);
+		document.getElementById("ios").innerHTML=VERSION_CHECK_SUPPORTED.replace("%s", versionNumber);
 		document.body.style.setProperty("--title-color", "rgba(39,174,96, 0.5)");
 	} else if(versionNumber > maxios) {
-		document.getElementById('ios').innerHTML=VERSION_CHECK_UNCONFIRMED.replace("%s", versionNumber);
+		document.getElementById("ios").innerHTML=VERSION_CHECK_UNCONFIRMED.replace("%s", versionNumber);
 		document.body.style.setProperty("--title-color", "rgba(192,57,43, 0.5)");
 	} else if(!versionNumber) {
-		document.getElementById('ios').innerHTML="<p>Can't get device version.</p>";
+		document.getElementById("ios").innerHTML="<p>Can't get device version.</p>";
 		document.body.style.setProperty("--title-color", "rgba(192,57,43, 0.5)");
 	} else {
-		document.getElementById('ios').innerHTML=VERSION_CHECK_UNSUPPORTED.replace("%s", versionNumber);
+		document.getElementById("ios").innerHTML=VERSION_CHECK_UNSUPPORTED.replace("%s", versionNumber);
 		document.body.style.setProperty("--title-color", "rgba(192,57,43, 0.5)");
 	}
 
