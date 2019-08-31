@@ -1,0 +1,12 @@
+Package: com.strejda603.airmailpremium
+Name: Airmail (Premium)
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Makes Airmail great again ;-)!
+Maintainer: strejda603 <strejda603@centrum.cz>
+Author: strejda603 <strejda603@centrum.cz>
+Depiction: https://strejda603.github.io/description.html?id=com.strejda603.airmailpremium
+Sileodepiction: https://strejda603.github.io/sileo-depictions/com.strejda603.airmailpremium
+Section: Tweaks
+Version: 1.0.2
+Installed-Size: 104
