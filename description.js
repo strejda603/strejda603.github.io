@@ -1,31 +1,3 @@
-//Thank you Matchstic, you beautiful person
-const VERSION_CHECK_SUPPORTED = "<p>iOS %s is supported. ✓</p>";
-const VERSION_CHECK_UNSUPPORTED = "<p>iOS %s is not supported. ✕</p>";
-const VERSION_CHECK_UNCONFIRMED = "<p>iOS %s has not been tested!</p>";
-
-function iOSversion() {
-		if (/iP(hone|od|ad)/.test(navigator.platform)) {
-			var v = (navigator.appVersion).match(/OS (\d+)_(\d+)_?(\d+)?/);
-			return [parseInt(v[1], 10), parseInt(v[2], 10), parseInt(v[3] || 0, 10)];
-		}
-	}
-
-var minios = 11.0;
-var maxios = 12.4;
-var ver = iOSversion();
-var verNumber = parseFloat(ver[0] + "." + ver[1]);
-
-	if(verNumber >= minios && ver <= maxios) {
-		document.getElementById("ios").innerHTML = VERSION_CHECK_SUPPORTED.replace("%s", verNumber);
-	} else if(verNumber > maxios) {
-		document.getElementById("ios").innerHTML = VERSION_CHECK_UNCONFIRMED.replace("%s", verNumber);
-	} else if(!verNumber) {
-		document.getElementById("ios").innerHTML = "<p>Can't get device version.</p>";
-	} else {
-		document.getElementById("ios").innerHTML = VERSION_CHECK_UNSUPPORTED.replace("%s", verNumber);
-	}
-
-
 function loadPackageInfo() {
 	var urlSplit = window.location.href.split('description.html?id=');
 	var formURL = urlSplit[0] + "packageInfo/" + urlSplit[1];
