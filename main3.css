@@ -3,7 +3,7 @@
 }
 
 body {
-  margin: 0;
+  margin: 10px 0;
   background: #ffffff;
   color: black !important;
   font-family: "SF Pro Display", "SF Pro", "Helvetica Neue", "Roboto", "Segoe UI", Helvetica, Arial, Verdana, sans-serif !important;
@@ -60,7 +60,7 @@ hr.top {
 }
 
 .row {
-  padding: 5px 15px;
+  padding: 5px 0;
 }
 
 .content {
@@ -150,12 +150,6 @@ hr.top {
   align: center;
   margin: 10px 0 20px 0;
   font-weight: bold;
-}
-
-.ios {
-  font-size: 16px;
-  line-height: 1.5;
-  opacity: 1.0;
 }
 
 .description {
