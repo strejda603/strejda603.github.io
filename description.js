@@ -1,3 +1,11 @@
+function iOSVersion() {
+	var match = (navigator.appVersion).split('OS ');
+	if (match.length > 1) {
+		return match[1].split(' ')[0].split('_').join('.');
+	}
+	return false;
+}
+
 function loadPackageInfo() {
 	var urlSplit = window.location.href.split('description.html?id=');
 	var formURL = urlSplit[0] + "packageInfo/" + urlSplit[1];
@@ -34,12 +42,12 @@ function loadPackageInfo() {
 			}
 			if(decodeResp.supported) {
 				$("#supported").html(decodeResp.supported);
-			}
-			if(decodeResp.minios) {
-				$("#minios").html(decodeResp.minios);
-			}
-			if(decodeResp.maxios) {
-				$("#maxios").html(decodeResp.maxios);
+				$("#supported_").show();
+				var ios_ver = iOSVersion();
+				if(ios_ver) {
+					$("#your_ios").show();
+					$("#your_ios").html("Current iOS: "+ios_ver);
+				}
 			}
 			if(decodeResp.topicon) {
 				$("#topicon").attr('src', decodeResp.topicon);
