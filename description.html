@@ -10,7 +10,7 @@
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
     <script src="description.js"></script>
-    <script src="iosver.js"></script>
+    <script src="iosver.js" async></script>
   </head>
 
   <script type="text/javascript">
@@ -34,9 +34,18 @@
           <div class="row content">
             <div class="list-wrapper">
               <div class="cards-list">
-                <fieldset class="iosver">
-                  <div data-min-ios="11.0" data-max-ios="12.4" class="prerequisite"><p>Your iOS version is supported!</p></div>
-                </fieldset>
+                <div class="container-fluid card">
+                  <div class="card-content">
+                    <div class="content-holder">
+                      <div class="inner-content">
+                        <div class="info-holder">
+                          <div id="ios" data-min-ios="11.0" data-max-ios="12.2"><p>Your iOS version is supported! &#x1f60a;</p>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
                 <h1 class="title">Description</h1>
                 <div class="container-fluid card">
                   <div class="card-content">

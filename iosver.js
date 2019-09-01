@@ -34,18 +34,18 @@ const VERSION_CHECK_UNSUPPORTED = "Only compatible with iOS %s to %s &#x1f61e;";
 		return 0;
 	}
 
-	var prerequisite = document.querySelector(".prerequisite"),
+	var ios = document.querySelector("#ios"),
 		version = navigator.appVersion.match(/CPU( iPhone)? OS (\d+)_(\d+)(_(\d+))? like/i);
 
-	if (!prerequisite || !version) {
+	if (!ios || !version) {
 		return;
 	}
 
 	var osVersion = [ version[2], version[3], version[4] ? version[5] : 0 ],
 
 		osString = osVersion[0] + "." + osVersion[1] + (osVersion[2] && osVersion[2] != 0 ? "." + osVersion[2] : ""),
-		minString = prerequisite.dataset.minIos,
-		maxString = prerequisite.dataset.maxIos,
+		minString = ios.dataset.minIos,
+		maxString = ios.dataset.maxIos,
 
 		minVersion = parseVersionString(minString),
 		maxVersion = maxString ? parseVersionString(maxString) : null,
@@ -57,7 +57,7 @@ const VERSION_CHECK_UNSUPPORTED = "Only compatible with iOS %s to %s &#x1f61e;";
 		message = VERSION_CHECK_NEEDS_UPGRADE.replace("%s", minString);
 		isBad = true;
 	} else if (maxVersion && compareVersions(maxVersion, osVersion) == -1) {
-		if ("unsupported" in prerequisite.dataset) {
+		if ("unsupported" in ios.dataset) {
 			message = VERSION_CHECK_UNSUPPORTED.replace("%s", minString).replace("%s", maxString);
 		} else {
 			message = VERSION_CHECK_UNCONFIRMED.replace("%s", osString);
@@ -66,10 +66,10 @@ const VERSION_CHECK_UNSUPPORTED = "Only compatible with iOS %s to %s &#x1f61e;";
 		isBad = true;
 	}
 
-//	prerequisite.querySelector("p").textContent = message;
-    prerequisite.querySelector("p").innerHTML = message;
+//	ios.querySelector("p").textContent = message;
+    ios.querySelector("p").innerHTML = message;
 
 	if (isBad) {
-		prerequisite.classList.add("info");
+		ios.classList.add("info");
 	}
 })(document);
