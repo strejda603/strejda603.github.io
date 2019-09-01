@@ -1,10 +1,17 @@
-function iOSVersion() {
-	var match = (navigator.appVersion).split('OS ');
-	if (match.length > 1) {
-		return match[1].split(' ')[0].split('_').join('.');
-	}
-	return false;
+function iOSversion() {
+  if (/iP(hone|od|ad)/.test(navigator.platform)) {
+    // supports iOS 2.0 and later: <http://bit.ly/TJjs1V>
+    var v = (navigator.appVersion).match(/OS (\d+)_(\d+)_?(\d+)?/);
+    return [parseInt(v[1], 10), parseInt(v[2], 10), parseInt(v[3] || 0, 10)];
+  }
 }
+
+ver = iOSversion();
+
+if (ver[0] >= 11) {
+  alert('This is running iOS 11 or later.');
+}
+
 
 function loadPackageInfo() {
 	var urlSplit = window.location.href.split('description.html?id=');
