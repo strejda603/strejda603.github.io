@@ -42,12 +42,6 @@ function loadPackageInfo() {
 			}
 			if(decodeResp.supported) {
 				$("#supported").html(decodeResp.supported);
-				$("#supported_").show();
-				var ios_ver = iOSVersion();
-				if(ios_ver) {
-					$("#your_ios").show();
-					$("#your_ios").html("Current iOS: "+ios_ver);
-				}
 			}
 			if(decodeResp.topicon) {
 				$("#topicon").attr('src', decodeResp.topicon);
