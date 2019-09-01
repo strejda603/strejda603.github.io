@@ -1,16 +1,18 @@
-function iOSversion() {
-  if (/iP(hone|od|ad)/.test(navigator.platform)) {
-    // supports iOS 2.0 and later: <http://bit.ly/TJjs1V>
-    var v = (navigator.appVersion).match(/OS (\d+)_(\d+)_?(\d+)?/);
-    return [parseInt(v[1], 10), parseInt(v[2], 10), parseInt(v[3] || 0, 10)];
-  }
-}
+$(document).ready(function() {
+	function iOSversion() {
+		if (/iP(hone|od|ad)/.test(navigator.platform)) {
+			var v = (navigator.appVersion).match(/OS (\d+)_(\d+)_?(\d+)?/);
+			return [parseInt(v[1], 10), parseInt(v[2], 10), parseInt(v[3] || 0, 10)];
+		}
+	}
 
-ver = iOSversion();
+	ver = iOSversion();
 
-if (ver[0] >= 11) {
-  alert('This is running iOS 11 or later.');
-}
+	if (ver[0] >= 5) {
+		alert('This is running iOS '+ver);
+		/*$('body').addClass('iOS-tagged');
+	*/}
+});
 
 
 function loadPackageInfo() {
