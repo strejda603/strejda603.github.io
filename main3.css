@@ -24,7 +24,7 @@ hr.top {
   display: flex;
   justify-content: center;
   align-items: center;
-  background: white;
+  background: transparent;
   padding: 1px;
   margin: auto;
   margin-top: 40px;
