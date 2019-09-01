@@ -52,6 +52,24 @@ Depiction: https://strejda603.github.io/description.html?id=com.strejda603.airma
 Name: Airmail (Premium)
 Sileodepiction: https://strejda603.github.io/sileo-depictions/com.strejda603.airmailpremium
 
+Package: com.strejda603.cozifamilyorganizerpremium
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: strejda603 <strejda603@centrum.cz>
+Installed-Size: 104
+Depends: mobilesubstrate
+Filename: ./debs/com.strejda603.cozifamilyorganizerpremium_1.0.0_iphoneos-arm.deb
+Size: 3346
+MD5sum: 3f3f59e045bac68bf997b3c3bdc40fd2
+SHA1: b5001ac611275f07dee9ba81fbac840acccaff27
+SHA256: 1a038141a74e04fa3c3cd44dd2c4a68143243bd1cd3f2a6667fd001395064c5a
+Section: Tweaks
+Description: Enables premium features.
+Author: strejda603 <strejda603@centrum.cz>
+Depiction: https://strejda603.github.io/description.html?id=com.strejda603.cozifamilyorganizerpremium
+Name: Cozi Family Organizer (Premium)
+Sileodepiction: https://strejda603.github.io/sileo-depictions/com.strejda603.cozifamilyorganizerpremium
+
 Package: com.strejda603.moleskineactionssubscription
 Version: 1.0.0
 Architecture: iphoneos-arm
