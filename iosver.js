@@ -3,11 +3,12 @@ const VERSION_CHECK_SUPPORTED = "<p>iOS %s is supported. ✓</p>";
 const VERSION_CHECK_UNSUPPORTED = "<p>iOS %s is not supported. ✕</p>";
 const VERSION_CHECK_UNCONFIRMED = "<p>iOS %s has not been tested!</p>";
 
-function iOSversion() {
-    if (/iP(hone|od|ad)/.test(navigator.platform)) {
-        var v = (navigator.appVersion).match(/OS (\d+)_(\d+)_?(\d+)?/);
-        return [parseInt(v[1], 10), parseInt(v[2], 10), parseInt(v[3] || 0, 10)];
-    }
+function iOSVersion() {
+	var match = (navigator.appVersion).split('OS ');
+	if (match.length > 1) {
+		return match[1].split(' ')[0].split('_').join('.');
+	}
+	return false;
 }
 
 var minios = 11.0;
