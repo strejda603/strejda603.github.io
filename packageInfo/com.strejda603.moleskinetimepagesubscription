@@ -2,7 +2,7 @@
 	"name": "MoleskineTimepage",
 	"version": "1.0.1",
 	"description": "<p>Patches subscription requirement for Moleskine Timepage.</p><p><b>NOTE:</b> This tweak was tested on iOS 11 and 12, but it may work in lower ones.</p>",
-	"screenshot": "<img class='screenshot' src='https://strejda603.github.io/img/timepage1.png' alt='Screenshot1 > Moleskine Timepage (Subscription)' style='max-width: 100%;'/><img class='screenshot' src='https://strejda603.github.io/img/timepage2.png' alt='Screenshot2 > Moleskine Timepage (Subscription)' style='max-width: 100%;'/>",
+	"screenshot": "<img class='screenshot' src='https://strejda603.github.io/img/timepage1.png' alt='Screenshot1 > Moleskine Timepage (Subscription)' style='max-width: 100%;'/><img class='screenshot' src='https://strejda603.github.io/img/timepage2.png' alt='Screenshot2 > Moleskine Timepage (Subscription)' style='max-width: 100%;' onclick='window.open(this.src)'/>",
 	"whatsnew": "Popup fix",
 	"licence": "FREE",
 	"updated": "August 4, 2019",
