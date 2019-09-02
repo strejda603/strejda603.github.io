@@ -35,6 +35,12 @@ function loadPackageInfo() {
 			if(decodeResp.supported) {
 				$("#supported").html(decodeResp.supported);
 			}
+			if(decodeResp.minIos) {
+				$("#ios").attr('data-min-ios', decodeResp.minIos);
+			}
+			if(decodeResp.maxIos) {
+				$("#ios").attr('data-max-ios', decodeResp.maxIos);
+			}
 			if(decodeResp.topicon) {
 				$("#topicon").attr('src', decodeResp.topicon);
 			}
