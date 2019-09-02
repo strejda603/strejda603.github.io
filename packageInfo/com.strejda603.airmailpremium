@@ -2,7 +2,7 @@
 	"name": "AirmailPremium",
 	"version": "1.0.2",
 	"description": "<p>Makes Airmail great again ;-)!</p><p>Do <b>NOT</b> update to v1.9.2 unless you have <i>”Liberty Lite”</i> tweak already installed and enabled!</p><p><b>NOTE:</b> This tweak was tested on iOS 11 and 12, but it may work in lower ones.</p>",
-	"screenshot": "<img id='myImg' class='screenshot' src='https://strejda603.github.io/img/airmail.png' alt='Screenshot > Airmail (Premium)' style='max-width: 100%;'/>",
+	"screenshot": "<img class='screenshot' src='https://strejda603.github.io/img/airmail.png' alt='Screenshot > Airmail (Premium)' style='max-width: 100%;'/>",
 	"whatsnew": "Real Time Inbox Monitoring fix",
 	"licence": "FREE",
 	"updated": "August 6, 2019",
