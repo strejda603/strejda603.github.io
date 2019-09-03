@@ -1,0 +1,12 @@
+{
+	"name": "WifiMapPro",
+	"version": "1.0.0",
+	"description": "<p>Enables PRO features.</p><p><b>NOTE:</b> This tweak was tested on iOS 11 and 12, but it may work in lower ones.</p>",
+	"screenshot": "<img class='screenshot' src='https://strejda603.github.io/img/wifimap.png' alt='Screenshot > Wifi Map (Pro)' style='max-width: 100%;'/>",
+	"whatsnew": "Initial release",
+	"licence": "FREE",
+	"updated": "September 3, 2019",
+	"supported": "iOS 11.0 - 12.4",
+	"topicon": "https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/b8/35/47/b83547aa-a831-79fc-0821-23b79d31ae52/source/350x350bb.jpg",
+	"title": "Wifi Map (Pro)"
+}
