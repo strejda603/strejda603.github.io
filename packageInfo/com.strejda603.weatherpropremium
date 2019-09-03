@@ -2,7 +2,7 @@
 	"name": "WeatherProPremium",
 	"version": "1.0.0",
 	"description": "<p>Enables premium features.</p><p><b>NOTE:</b> This tweak was tested on iOS 11 and 12, but it may work in lower ones.</p>",
-	"screenshot": "<img class='screenshot' src='https://strejda603.github.io/img/weatherpro1.png' alt='Screenshot1 > WeatherPro (Premium)' style='max-width: 100%;'/><img class='screenshot' src='https://strejda603.github.io/img/weatherpro2.png' alt='Screenshot2 > WeatherPro (Premium)' style='max-width: 100%;' onclick='window.open(this.src)'/>",
+	"screenshot": "<img class='screenshot' src='https://strejda603.github.io/img/weatherpro1.png' alt='Screenshot1 > WeatherPro (Premium)' style='max-width: 100%;' onclick='window.open(this.src)'/><img class='screenshot' src='https://strejda603.github.io/img/weatherpro2.png' alt='Screenshot2 > WeatherPro (Premium)' style='max-width: 100%;' onclick='window.open(this.src)'/>",
 	"whatsnew": "Initial release",
 	"licence": "FREE",
 	"updated": "August 13, 2019",
