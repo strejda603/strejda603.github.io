@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"tr",
+				"transparent\tbackground"
+			],
+			[
 				"S",
 				"strejda603"
 			],
@@ -205,29 +209,35 @@
 	"expanded_folders":
 	[
 		"/Users/danielpitra/Documents/GitHub/strejda603.github.io",
-		"/Users/danielpitra/Documents/GitHub/strejda603.github.io/packageInfo",
-		"/Users/danielpitra/Documents/GitHub/strejda603.github.io/sileo-depictions"
+		"/Users/danielpitra/Documents/GitHub/strejda603.github.io/packageInfo"
 	],
 	"file_history":
 	[
-		"/Users/danielpitra/Library/Application Support/Sublime Text 3/Packages/JavaScript/JSON.sublime-syntax",
+		"/Users/danielpitra/Documents/GitHub/strejda603.github.io/packageInfo/com.strejda603.moleskineactionssubscription",
+		"/Users/danielpitra/Documents/GitHub/strejda603.github.io/packageInfo/com.strejda603.moleskineflowsubscription",
 		"/Users/danielpitra/Documents/GitHub/strejda603.github.io/packageInfo/com.strejda603.moleskinetimepagesubscription",
+		"/Users/danielpitra/Documents/GitHub/strejda603.github.io/packageInfo/com.strejda603.weatherpropremium",
+		"/Users/danielpitra/Documents/GitHub/strejda603.github.io/packageInfo/com.strejda603.airmailpremium",
+		"/Users/danielpitra/Documents/GitHub/strejda603.github.io/description.html",
+		"/Users/danielpitra/Documents/GitHub/strejda603.github.io/packageInfo/com.strejda603.cozifamilyorganizerpremium",
+		"/Users/danielpitra/Documents/GitHub/strejda603.github.io/packageInfo/com.strejda603.noaaweatherradarpremium",
+		"/Users/danielpitra/Documents/GitHub/strejda603.github.io/packageInfo/com.strejda603.pdfexpert7pro",
+		"/Users/danielpitra/Documents/GitHub/strejda603.github.io/packageInfo/com.strejda603.planeslivepremium",
+		"/Users/danielpitra/Documents/GitHub/strejda603.github.io/packageInfo/com.strejda603.scantranslatepluspremium",
+		"/Users/danielpitra/Documents/GitHub/strejda603.github.io/packageInfo/com.strejda603.strikewriterpublisherpremium",
+		"/Users/danielpitra/Documents/GitHub/strejda603.github.io/main3.css",
+		"/Users/danielpitra/Documents/GitHub/strejda603.github.io/description.js",
+		"/Users/danielpitra/Documents/GitHub/strejda603.github.io/iosver.js",
+		"/Users/danielpitra/Downloads/reddestdream.github.io-master/index.html",
+		"/Users/danielpitra/Downloads/reddestdream.github.io-master/depictions/MinimalHostsBlocker/index.html",
+		"/Users/danielpitra/Downloads/test.css",
+		"/Users/danielpitra/Downloads/test.js",
+		"/Users/danielpitra/Downloads/test.html",
+		"/Users/danielpitra/Library/Application Support/Sublime Text 3/Packages/JavaScript/JSON.sublime-syntax",
 		"/Users/danielpitra/Library/Application Support/Sublime Text 3/Packages/User/strejda603.sublime-syntax",
 		"/Users/danielpitra/Library/Application Support/Sublime Text 3/Packages/User/x.sublime-syntax",
 		"/Users/danielpitra/Documents/GitHub/strejda603.github.io/sileo-depictions/com.strejda603.airmailpremium",
-		"/Users/danielpitra/Documents/GitHub/strejda603.github.io/description.html",
 		"/Users/danielpitra/Documents/GitHub/strejda603.github.io/update.sh",
-		"/Users/danielpitra/Documents/GitHub/strejda603.github.io/packageInfo/com.strejda603.weatherpropremium",
-		"/Users/danielpitra/Documents/GitHub/strejda603.github.io/packageInfo/com.strejda603.strikewriterpublisherpremium",
-		"/Users/danielpitra/Documents/GitHub/strejda603.github.io/packageInfo/com.strejda603.scantranslatepluspremium",
-		"/Users/danielpitra/Documents/GitHub/strejda603.github.io/packageInfo/com.strejda603.planeslivepremium",
-		"/Users/danielpitra/Documents/GitHub/strejda603.github.io/packageInfo/com.strejda603.pdfexpert7pro",
-		"/Users/danielpitra/Documents/GitHub/strejda603.github.io/packageInfo/com.strejda603.noaaweatherradarpremium",
-		"/Users/danielpitra/Documents/GitHub/strejda603.github.io/packageInfo/com.strejda603.moleskineflowsubscription",
-		"/Users/danielpitra/Documents/GitHub/strejda603.github.io/packageInfo/com.strejda603.airmailpremium",
-		"/Users/danielpitra/Documents/GitHub/strejda603.github.io/packageInfo/com.strejda603.moleskineactionssubscription",
-		"/Users/danielpitra/Documents/GitHub/strejda603.github.io/description.js",
-		"/Users/danielpitra/Documents/GitHub/strejda603.github.io/iosver.js",
 		"/Users/danielpitra/Documents/Theos/kurzymenads/Tweak.x",
 		"/Users/danielpitra/Documents/Theos/sololearnpro/Tweak.x",
 		"/Users/danielpitra/Documents/Theos/planeslivepremium/Tweak.x",
@@ -247,7 +257,6 @@
 		"/Users/danielpitra/Documents/Theos/airmailpremium/Tweak.x",
 		"/Users/danielpitra/Documents/GitHub/strejda603.github.io/sileo-depictions/com.strejda603.weatherpropremium",
 		"/Users/danielpitra/Documents/Theos/signalscopepro/Tweak.xm",
-		"/Users/danielpitra/Documents/GitHub/strejda603.github.io/main3.css",
 		"/Users/danielpitra/Documents/GitHub/strejda603.github.io/push.sh",
 		"/Users/danielpitra/Documents/GitHub/strejda603.github.io/Release",
 		"/Users/danielpitra/Documents/GitHub/strejda603.github.io/index.html",
@@ -331,17 +340,11 @@
 		"/Users/danielpitra/Documents/--- Wordpress ---/- DanielPitra.cz -/wp-content/plugins/score-info/score-info-cs_CZ.po",
 		"/Users/danielpitra/Documents/--- Wordpress ---/- DanielPitra.cz -/wp-content/plugins/woocommerce/templates/single-product/meta.php",
 		"/Users/danielpitra/Documents/--- Wordpress ---/- DanielPitra.cz -/wp-content/plugins/woocommerce-woocartpro/static/styles/frontend/customize/popup_customize_style.css",
-		"/Users/danielpitra/MAC Changer.sh",
-		"/Users/danielpitra/Documents/--- Wordpress ---/- DanielPitra.cz -/wp-content/plugins/woocommerce-woocartpro/static/styles/frontend/customize/cart_customize_style.css",
-		"/Users/danielpitra/Documents/--- Wordpress ---/- DanielPitra.cz -/wp-content/plugins/woocommerce-woocartpro/static/styles/frontend/style.css",
-		"/Volumes/Elements/---GAMES---/GTA Vice City.app/Contents/Resources/drive_c/Program Files/Rockstar Games/Grand Theft Auto Vice City/CLEO/Gravity.txt",
-		"/Volumes/Elements/---GAMES---/GTA Vice City.app/Contents/Resources/drive_c/Program Files/Rockstar Games/Grand Theft Auto Vice City/CLEO/Cheat code for money.txt",
-		"/Users/danielpitra/Downloads/codes.txt",
-		"/Users/danielpitra/Downloads/AppOnFly-login01.txt"
+		"/Users/danielpitra/MAC Changer.sh"
 	],
 	"find":
 	{
-		"height": 70.0
+		"height": 26.0
 	},
 	"find_in_files":
 	{
@@ -355,6 +358,10 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"img",
+			"prerequisite",
+			"iosver",
+			"ios"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -362,6 +369,7 @@
 		"regex": false,
 		"replace_history":
 		[
+			"ios"
 		],
 		"reverse": false,
 		"show_context": true,
