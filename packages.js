@@ -2,6 +2,9 @@ window.onload = function () {
   document.getElementById("AirmailPremium").addEventListener("click", packagesEventHandler);
   document.getElementById("GetAirmailPremium").addEventListener("click", packagesEventHandler);
 
+  document.getElementById("CoziFamilyOrganizerPremium").addEventListener("click", packagesEventHandler);
+  document.getElementById("GetCoziFamilyOrganizerPremium").addEventListener("click", packagesEventHandler);
+
   document.getElementById("MoleskineActions").addEventListener("click", packagesEventHandler);
   document.getElementById("GetMoleskineActions").addEventListener("click", packagesEventHandler);
 
@@ -16,6 +19,9 @@ window.onload = function () {
 
   document.getElementById("PDFExpert7PRO").addEventListener("click", packagesEventHandler);
   document.getElementById("GetPDFExpert7PRO").addEventListener("click", packagesEventHandler);
+
+  document.getElementById("PlanesLivePremium").addEventListener("click", packagesEventHandler);
+  document.getElementById("GetPlanesLivePremium").addEventListener("click", packagesEventHandler);
   
   document.getElementById("ScanTranslatePlus").addEventListener("click", packagesEventHandler);
   document.getElementById("GetScanTranslatePlus").addEventListener("click", packagesEventHandler);
@@ -25,6 +31,9 @@ window.onload = function () {
 
   document.getElementById("WeatherProPremium").addEventListener("click", packagesEventHandler);
   document.getElementById("GetWeatherProPremium").addEventListener("click", packagesEventHandler);
+
+  document.getElementById("WifiMapPro").addEventListener("click", packagesEventHandler);
+  document.getElementById("GetWifiMapPro").addEventListener("click", packagesEventHandler);
 }
 
 function packagesEventHandler(e) {
@@ -34,6 +43,13 @@ function packagesEventHandler(e) {
       break;
     case "GetAirmailPremium":
       window.open("https://cydia.saurik.com/api/share#?source=https://strejda603.github.io/&package=com.strejda603.airmailpremium");
+      break;
+
+    case "CoziFamilyOrganizerPremium":
+      window.open("https://strejda603.github.io/description.html?id=com.strejda603.cozifamilyorganizerpremium", "_self");
+      break;
+    case "GetCoziFamilyOrganizerPremium":
+      window.open("https://cydia.saurik.com/api/share#?source=https://strejda603.github.io/&package=com.strejda603.cozifamilyorganizerpremium");
       break;
 
     case "MoleskineActions":
@@ -71,6 +87,13 @@ function packagesEventHandler(e) {
       window.open("https://cydia.saurik.com/api/share#?source=https://strejda603.github.io/&package=com.strejda603.pdfexpert7pro");
       break;
 
+    case "PlanesLivePremium":
+      window.open("https://strejda603.github.io/description.html?id=com.strejda603.planeslivepremium", "_self");
+      break;
+    case "GetPlanesLivePremium":
+      window.open("https://cydia.saurik.com/api/share#?source=https://strejda603.github.io/&package=com.strejda603.planeslivepremium");
+      break;
+
     case "ScanTranslatePlus":
       window.open("https://strejda603.github.io/description.html?id=com.strejda603.scantranslatepluspremium", "_self");
       break;
@@ -90,6 +113,13 @@ function packagesEventHandler(e) {
       break;
     case "GetWeatherProPremium":
       window.open("https://cydia.saurik.com/api/share#?source=https://strejda603.github.io/&package=com.strejda603.weatherpropremium");
+      break;
+
+    case "WifiMapPro":
+      window.open("https://strejda603.github.io/description.html?id=com.strejda603.wifimappro", "_self");
+      break;
+    case "GetWifiMapPro":
+      window.open("https://cydia.saurik.com/api/share#?source=https://strejda603.github.io/&package=com.strejda603.wifimappro");
       break;
   }
   e.stopPropagation();
