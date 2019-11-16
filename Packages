@@ -286,6 +286,24 @@ Depiction: https://strejda603.github.io/description.html?id=com.strejda603.strik
 Name: Strike Writer & Publisher (Premium)
 Sileodepiction: https://strejda603.github.io/sileo-depictions/com.strejda603.strikewriterpublisherpremium
 
+Package: com.strejda603.torvpnsubscription
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: strejda603 <strejda603@centrum.cz>
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: ./debs/com.strejda603.torvpnsubscription_1.0.0_iphoneos-arm.deb
+Size: 3378
+MD5sum: 41baa3cc9abc83d7d8d5b898e5eb3a9c
+SHA1: b5c5ea3471e5f0fdf2a05d7af1d0f2c834dc3c30
+SHA256: 7f16cb39d921b516f07173a1d2c509daed8c6a0e52e1f6ae72abc32fd1387955
+Section: Tweaks
+Description: Patches subscription requirement
+Author: strejda603 <strejda603@centrum.cz>
+Depiction: https://strejda603.github.io/description.html?id=com.strejda603.torvpnsubscription
+Name: TorVPN (Subscription)
+Sileodepiction: https://strejda603.github.io/sileo-depictions/com.strejda603.torvpnsubscription
+
 Package: com.strejda603.weatherpropremium
 Version: 1.0.0
 Architecture: iphoneos-arm
