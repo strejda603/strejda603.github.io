@@ -268,6 +268,24 @@ Depiction: https://strejda603.github.io/description.html?id=com.strejda603.scant
 Name: Scan&Translate+ (Premium)
 Sileodepiction: https://strejda603.github.io/sileo-depictions/com.strejda603.scantranslatepluspremium
 
+Package: com.strejda603.signalscopexprotoolenabled
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: strejda603 <strejda603@centrum.cz>
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: ./debs/com.strejda603.signalscopexprotoolenabled_1.0.0_iphoneos-arm.deb
+Size: 3638
+MD5sum: fdadcf166a68aef2ac4505a56931b168
+SHA1: d95e191979f87859c65f5426a93a06e66ab6e470
+SHA256: a8c59a20020e5942120c4501b3036d85b10faa10d445c1d694a700da4f4a710c
+Section: Tweaks
+Description: Enables Pro Tool Subscription.
+Author: strejda603 <strejda603@centrum.cz>
+Depiction: https://strejda603.github.io/description.html?id=com.strejda603.signalscopexprotoolenabled
+Name: SignalScope X (Pro Tool Enabled)
+Sileodepiction: https://strejda603.github.io/sileo-depictions/com.strejda603.signalscopexprotoolenabled
+
 Package: com.strejda603.strikewriterpublisherpremium
 Version: 1.0.0
 Architecture: iphoneos-arm
