@@ -26,6 +26,9 @@ window.onload = function () {
   document.getElementById("ScanTranslatePlus").addEventListener("click", packagesEventHandler);
   document.getElementById("GetScanTranslatePlus").addEventListener("click", packagesEventHandler);
 
+  document.getElementById("SignalScopeXProToolEnabled").addEventListener("click", packagesEventHandler);
+  document.getElementById("GetSignalScopeXProToolEnabled").addEventListener("click", packagesEventHandler);
+
   document.getElementById("StrikeWriterPublisherPremium").addEventListener("click", packagesEventHandler);
   document.getElementById("GetStrikeWriterPublisherPremium").addEventListener("click", packagesEventHandler);
 
@@ -99,6 +102,13 @@ function packagesEventHandler(e) {
       break;
     case "GetScanTranslatePlus":
       window.open("https://cydia.saurik.com/api/share#?source=https://strejda603.github.io/&package=com.strejda603.scantranslatepluspremium");
+      break;
+
+    case "SignalScopeXProToolEnabled":
+      window.open("https://strejda603.github.io/description.html?id=com.strejda603.signalscopexprotoolenabled", "_self");
+      break;
+    case "GetSignalScopeXProToolEnabled":
+      window.open("https://cydia.saurik.com/api/share#?source=https://strejda603.github.io/&package=com.strejda603.signalscopexprotoolenabled");
       break;
 
     case "StrikeWriterPublisherPremium":
