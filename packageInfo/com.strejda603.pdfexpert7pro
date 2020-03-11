@@ -7,6 +7,8 @@
 	"licence": "FREE",
 	"updated": "August 20, 2019",
 	"supported": "iOS 11.0 - 12.4",
+	"minIos": "11.0",
+	"maxIos": "12.4",
 	"topicon": "https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/14/fa/1d/14fa1db9-0b72-0f11-edbc-810b6b1be28c/source/350x350bb.jpg",
 	"title": "PDF Expert 7 (PRO)"
 }

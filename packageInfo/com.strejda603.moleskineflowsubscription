@@ -7,6 +7,8 @@
 	"licence": "FREE",
 	"updated": "August 4, 2019",
 	"supported": "iOS 11.0 - 12.4",
+	"minIos": "11.0",
+	"maxIos": "12.4",
 	"topicon": "https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/fc/db/64/fcdb6436-1f26-0174-f9b5-6994ecf949cd/source/350x350bb.jpg",
 	"title": "Moleskine Flow (Subscription)"
 }

@@ -7,6 +7,8 @@
 	"licence": "FREE",
 	"updated": "August 20, 2019",
 	"supported": "iOS 11.0 - 12.4",
+	"minIos": "11.0",
+	"maxIos": "12.4",
 	"topicon": "https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/b6/3e/b3/b63eb3a0-f65c-6f74-1479-aa35347d2832/source/350x350bb.jpg",
 	"title": "Strike Writer & Publisher (Premium)"
 }
