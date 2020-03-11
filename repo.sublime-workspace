@@ -212,13 +212,15 @@
 	],
 	"file_history":
 	[
+		"/Users/danielpitra/Documents/GitHub/strejda603.github.io/sileo-featured.json",
+		"/Users/danielpitra/Documents/GitHub/strejda603.github.io/packages.js",
+		"/Users/danielpitra/Documents/GitHub/strejda603.github.io/packages.html",
+		"/Users/danielpitra/Documents/GitHub/strejda603.github.io/packageInfo/com.strejda603.signalscopexprotoolenabled",
 		"/Users/danielpitra/Documents/GitHub/strejda603.github.io/.gitignore",
 		"/Users/danielpitra/Documents/GitHub/strejda603.github.io/packageInfo/com.strejda603.torvpnsubscription",
 		"/Users/danielpitra/Documents/GitHub/strejda603.github.io/sileo-depictions/com.strejda603.torvpnsubscription",
 		"/Users/danielpitra/Documents/Theos/torvpnsubscription/Tweak.x",
 		"/Users/danielpitra/Documents/Theos/signalscopepro/Tweak.xm",
-		"/Users/danielpitra/Documents/GitHub/strejda603.github.io/packages.html",
-		"/Users/danielpitra/Documents/GitHub/strejda603.github.io/packages.js",
 		"/Users/danielpitra/Documents/GitHub/strejda603.github.io/packageInfo/com.strejda603.moleskineactionssubscription",
 		"/Users/danielpitra/Documents/GitHub/strejda603.github.io/packageInfo/com.strejda603.moleskineflowsubscription",
 		"/Users/danielpitra/Documents/GitHub/strejda603.github.io/packageInfo/com.strejda603.moleskinetimepagesubscription",
@@ -263,7 +265,6 @@
 		"/Users/danielpitra/Documents/GitHub/strejda603.github.io/push.sh",
 		"/Users/danielpitra/Documents/GitHub/strejda603.github.io/Release",
 		"/Users/danielpitra/Documents/GitHub/strejda603.github.io/index.html",
-		"/Users/danielpitra/Documents/GitHub/strejda603.github.io/sileo-featured.json",
 		"/Users/danielpitra/Documents/GitHub/strejda603.github.io/sileo-depictions/com.strejda603.moleskineactionssubscription",
 		"/Users/danielpitra/Documents/GitHub/strejda603.github.io/sileo-depictions/com.strejda603.moleskineflowsubscription",
 		"/Users/danielpitra/Documents/GitHub/strejda603.github.io/sileo-depictions/com.strejda603.moleskinetimepagesubscription",
@@ -338,8 +339,7 @@
 		"/Users/danielpitra/Documents/--- Wordpress ---/- DanielPitra.cz -/wp-content/plugins/score-info/score-info.pot",
 		"/Users/danielpitra/Documents/--- Wordpress ---/- DanielPitra.cz -/wp-content/plugins/score-info/vc-scoreinfo-element.php",
 		"/Users/danielpitra/Documents/--- Wordpress ---/- DanielPitra.cz -/wp-content/themes/lucille/languages/lucille.pot",
-		"/Users/danielpitra/Documents/--- Wordpress ---/- DanielPitra.cz -/wp-content/languages/themes/lucille-cs_CZ.po",
-		"/Users/danielpitra/Documents/--- Wordpress ---/- DanielPitra.cz -/wp-content/plugins/score-info/score-info-cs_CZ.po"
+		"/Users/danielpitra/Documents/--- Wordpress ---/- DanielPitra.cz -/wp-content/languages/themes/lucille-cs_CZ.po"
 	],
 	"find":
 	{
