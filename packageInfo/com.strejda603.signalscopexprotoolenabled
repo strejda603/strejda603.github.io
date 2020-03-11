@@ -7,6 +7,8 @@
 	"licence": "FREE",
 	"updated": "March 9, 2020",
 	"supported": "iOS 11.0 - 13.3.1",
+	"minIos": "11.0",
+	"maxIos": "13.3.1",
 	"topicon": "https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/21/f9/70/21f970c3-466c-cdab-7688-d3943ea65324/source/350x350bb.jpg",
 	"title": "SignalScope X (Pro Tool Enabled)"
 }
