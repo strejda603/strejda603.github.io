@@ -35,7 +35,7 @@ const VERSION_CHECK_UNSUPPORTED = "Only compatible with iOS %s to %s &#x1f61e;";
 	}
 
 	var ios = document.querySelector("#ios"),
-		version = navigator.appVersion.match(/CPU( iPhone)? OS (\d+)_(\d+)(_(\d+))? like/i);
+		version = (navigator.appVersion).match(/OS (\d+)_(\d+)_?(\d+)?/);
 
 	if (!ios || !version) {
 		return;
