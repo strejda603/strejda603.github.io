@@ -1,0 +1,476 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"tr",
+				"transparent\tbackground"
+			],
+			[
+				"S",
+				"strejda603"
+			],
+			[
+				"prev",
+				"prevent-url"
+			],
+			[
+				"prre",
+				"prevent-url"
+			],
+			[
+				"colo",
+				"background-color\tproperty"
+			],
+			[
+				"ra",
+				"range_low_num"
+			],
+			[
+				"ran",
+				"range_high"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"mar",
+				"margin-left\tproperty"
+			],
+			[
+				"u",
+				"uppercase\ttext-transform"
+			],
+			[
+				"v",
+				"verses"
+			],
+			[
+				"rang",
+				"range_high"
+			],
+			[
+				"In",
+				"Info"
+			],
+			[
+				"short",
+				"short-open"
+			],
+			[
+				"z",
+				"z-index\tproperty"
+			],
+			[
+				"d",
+				"display\tproperty"
+			],
+			[
+				"font-s",
+				"font-size\tproperty"
+			],
+			[
+				"tex",
+				"text-align\tproperty"
+			],
+			[
+				"fon",
+				"font-size\tproperty"
+			],
+			[
+				"ne",
+				"nenalezeno"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/User/Theos.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Theos.sublime-build",
+					"iPhone Package"
+				],
+				[
+					"Packages/User/Theos.sublime-build",
+					"iPhone Final Package"
+				],
+				[
+					"Packages/User/Theos.sublime-build",
+					"iPhone Install"
+				],
+				[
+					"Packages/User/Theos.sublime-build",
+					"Simject Install"
+				],
+				[
+					"Packages/User/Theos.sublime-build",
+					"iPhone Testing Upload"
+				],
+				[
+					"Packages/User/Theos.sublime-build",
+					"iPhone Release Upload"
+				],
+				[
+					"Packages/User/Theos.sublime-build",
+					"Delete Last Package"
+				]
+			],
+			[
+				"Packages/User/Theos.sublime-build",
+				"iPhone Final Package"
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 354.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"RES",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"new sy",
+				"PackageDev: New Syntax Definition"
+			],
+			[
+				"op",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"packagedev",
+				"PackageDev: New TextMate Syntax Definition"
+			],
+			[
+				"syntax",
+				"Set Syntax: JSON"
+			],
+			[
+				"open",
+				"PackageDev: Open Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"up",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 496.0
+	},
+	"console":
+	{
+		"height": 176.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/danielpitra/Documents/GitHub/strejda603.github.io"
+	],
+	"file_history":
+	[
+		"/Users/danielpitra/Documents/Theos/planeslivepremium/control",
+		"/Users/danielpitra/Documents/Theos/scantranslatepremium/control",
+		"/Users/danielpitra/Downloads/strejda603.github.io/depictions/com.strejda603.scantranslatepluspremium/changelog.html",
+		"/Users/danielpitra/Documents/Theos/scantranslatepremium/packageInfo/com.strejda603.scantranslatepluspremium",
+		"/Users/danielpitra/Documents/Theos/scantranslatepremium/sileo-depictions/com.strejda603.scantranslatepluspremium",
+		"/Users/danielpitra/Downloads/strejda603.github.io/depictions/com.strejda603.scantranslatepluspremium/ScanTranslatePremium.json",
+		"/Users/danielpitra/Downloads/strejda603.github.io/depictions/com.strejda603.scantranslatepluspremium/index.html",
+		"/Users/danielpitra/Documents/Theos/planeslivepremium/packageInfo/com.strejda603.planeslivepremium",
+		"/Users/danielpitra/Downloads/strejda603.github.io/depictions/com.strejda603.planeslivepremium/index.html",
+		"/Users/danielpitra/Documents/Theos/pdfexpert7pro/control",
+		"/Users/danielpitra/Documents/Theos/planeslivepremium/sileo-depictions/com.strejda603.planeslivepremium",
+		"/Users/danielpitra/Downloads/strejda603.github.io/depictions/com.strejda603.planeslivepremium/PDFExpert7PRO.json",
+		"/Users/danielpitra/Downloads/strejda603.github.io/depictions/com.strejda603.planeslivepremium/changelog.html",
+		"/Users/danielpitra/Documents/Theos/noaaweatherradarpremium/control",
+		"/Users/danielpitra/Documents/Theos/pdfexpert7pro/packageInfo/com.strejda603.pdfexpert7pro",
+		"/Users/danielpitra/Downloads/strejda603.github.io/depictions/com.strejda603.pdfexpert7pro/NOAAWeatherRadarPremium.json",
+		"/Users/danielpitra/Documents/Theos/pdfexpert7pro/sileo-depictions/com.strejda603.pdfexpert7pro",
+		"/Users/danielpitra/Downloads/strejda603.github.io/depictions/com.strejda603.pdfexpert7pro/index.html",
+		"/Users/danielpitra/Downloads/strejda603.github.io/depictions/com.strejda603.pdfexpert7pro/changelog.html",
+		"/Users/danielpitra/Documents/Theos/cozifamilyorganizerpremium/control",
+		"/Users/danielpitra/Documents/Theos/noaaweatherradarpremium/packageInfo/com.strejda603.noaaweatherradarpremium",
+		"/Users/danielpitra/Downloads/strejda603.github.io/depictions/com.strejda603.noaaweatherradarpremium/CoziFamilyOrganizerPremium.json",
+		"/Users/danielpitra/Documents/Theos/noaaweatherradarpremium/sileo-depictions/com.strejda603.noaaweatherradarpremium",
+		"/Users/danielpitra/Downloads/strejda603.github.io/depictions/com.strejda603.noaaweatherradarpremium/changelog.html",
+		"/Users/danielpitra/Downloads/strejda603.github.io/depictions/com.strejda603.noaaweatherradarpremium/index.html",
+		"/Users/danielpitra/Downloads/strejda603.github.io/depictions/com.strejda603.noaaweatherradarpremium/screenshots.html",
+		"/Users/danielpitra/Documents/Theos/moleskinetimepagesubscription/control",
+		"/Users/danielpitra/Documents/Theos/moleskineflowsubscription/control",
+		"/Users/danielpitra/Documents/Theos/moleskinetimepagesubscription/packageInfo/com.strejda603.moleskinetimepagesubscription",
+		"/Users/danielpitra/Documents/Theos/moleskinetimepagesubscription/sileo-depictions/com.strejda603.moleskinetimepagesubscription",
+		"/Users/danielpitra/Downloads/strejda603.github.io/depictions/com.strejda603.moleskinetimepagesubscription/MoleskineTimepageSubscription.json",
+		"/Users/danielpitra/Downloads/strejda603.github.io/depictions/com.strejda603.moleskinetimepagesubscription/screenshots.html",
+		"/Users/danielpitra/Downloads/strejda603.github.io/depictions/com.strejda603.moleskinetimepagesubscription/changelog.html",
+		"/Users/danielpitra/Downloads/strejda603.github.io/depictions/com.strejda603.moleskinetimepagesubscription/index.html",
+		"/Users/danielpitra/Downloads/strejda603.github.io/depictions/com.strejda603.moleskinetimepagesubscription/MoleskineFlowSubscription.json",
+		"/Users/danielpitra/Downloads/strejda603.github.io/Release",
+		"/Users/danielpitra/Downloads/strejda603.github.io/sileo-featured.json",
+		"/Users/danielpitra/Downloads/strejda603.github.io/depictions/com.strejda603.airmailpremium/AirmailPremium.json",
+		"/Users/danielpitra/Downloads/strejda603.github.io/depictions/com.strejda603.moleskineflowsubscription/MoleskineFlowSubscription.json",
+		"/Users/danielpitra/Documents/Theos/moleskineactionssubscription/control",
+		"/Users/danielpitra/Downloads/strejda603.github.io/depictions/com.strejda603.moleskineflowsubscription/changelog.html",
+		"/Users/danielpitra/Documents/Theos/moleskineflowsubscription/packageInfo/com.strejda603.moleskineflowsubscription",
+		"/Users/danielpitra/Downloads/strejda603.github.io/depictions/com.strejda603.moleskineflowsubscription/index.html",
+		"/Users/danielpitra/Downloads/strejda603.github.io/depictions/com.strejda603.moleskineflowsubscription/screenshots.html",
+		"/Users/danielpitra/Documents/Theos/moleskineactionssubscription/sileo-depictions/com.strejda603.moleskineactionssubscription",
+		"/Users/danielpitra/Downloads/strejda603.github.io/depictions/com.strejda603.moleskineactionssubscription/MoleskineActionsSubscription.json",
+		"/Users/danielpitra/Downloads/strejda603.github.io/depictions/com.strejda603.moleskineactionssubscription/changelog.html",
+		"/Users/danielpitra/Documents/Theos/moleskineactionssubscription/packageInfo/com.strejda603.moleskineactionssubscription",
+		"/Users/danielpitra/Downloads/strejda603.github.io/depictions/com.strejda603.moleskineactionssubscription/screenshots.html",
+		"/Users/danielpitra/Downloads/LacertosusRepo.github.io-master/depictions/com.lacertosusrepo.customreach/screenshots.html",
+		"/Users/danielpitra/Downloads/strejda603.github.io/depictions/com.strejda603.moleskineactionssubscription/index.html",
+		"/Users/danielpitra/Documents/Theos/cozifamilyorganizerpremium/packageInfo/com.strejda603.cozifamilyorganizerpremium",
+		"/Users/danielpitra/Downloads/strejda603.github.io/depictions/com.strejda603.cozifamilyorganizerpremium/index.html",
+		"/Users/danielpitra/Downloads/strejda603.github.io/depictions/com.strejda603.cozifamilyorganizerpremium/changelog.html",
+		"/Users/danielpitra/Downloads/strejda603.github.io/depictions/com.strejda603.cozifamilyorganizerpremium/CoziFamilyOrganizerPremium.json",
+		"/Users/danielpitra/Documents/Theos/cozifamilyorganizerpremium/sileo-depictions/com.strejda603.cozifamilyorganizerpremium",
+		"/Users/danielpitra/Documents/Theos/airmailpremium/depictions/com.strejda603.airmailpremium/changelog.html",
+		"/Users/danielpitra/Documents/Theos/airmailpremium/depictions/com.strejda603.airmailpremium/index.html",
+		"/Users/danielpitra/Documents/Theos/airmailpremium/depictions/com.strejda603.airmailpremium/screenshots.html",
+		"/Users/danielpitra/Documents/Theos/airmailpremium/depictions/com.strejda603.airmailpremium/AirmailPremium2.json",
+		"/Users/danielpitra/Documents/Theos/airmailpremium/depictions/com.strejda603.airmailpremium/AirmailPremium.json",
+		"/Users/danielpitra/Documents/Theos/airmailpremium/sileo-depictions/com.strejda603.airmailpremium",
+		"/Users/danielpitra/Documents/Theos/airmailpremium/control",
+		"/private/var/folders/1b/g_7ly_cn5qgd2bxb4b4z449r0000gn/T/BetterZip Temporary Folder.2UjP4U/BetterZip Temporary Folder.smRcXu/com.strejda603.airmailpremium/airmailpremium.json",
+		"/private/var/folders/1b/g_7ly_cn5qgd2bxb4b4z449r0000gn/T/BetterZip Temporary Folder.2UjP4U/BetterZip Temporary Folder.uKgjd3/sileo-depictions/@@PACKAGENAME@@",
+		"/private/var/folders/1b/g_7ly_cn5qgd2bxb4b4z449r0000gn/T/BetterZip Temporary Folder.2UjP4U/BetterZip Temporary Folder.smRcXu/com.strejda603.airmailpremium/screenshots.html",
+		"/private/var/folders/1b/g_7ly_cn5qgd2bxb4b4z449r0000gn/T/BetterZip Temporary Folder.2UjP4U/BetterZip Temporary Folder.smRcXu/com.strejda603.airmailpremium/changelog.html",
+		"/private/var/folders/1b/g_7ly_cn5qgd2bxb4b4z449r0000gn/T/BetterZip Temporary Folder.2UjP4U/BetterZip Temporary Folder.PVV6yY/packageInfo/@@PACKAGENAME@@",
+		"/private/var/folders/1b/g_7ly_cn5qgd2bxb4b4z449r0000gn/T/BetterZip Temporary Folder.2UjP4U/BetterZip Temporary Folder.S2HxGX/control",
+		"/private/var/folders/1b/g_7ly_cn5qgd2bxb4b4z449r0000gn/T/BetterZip Temporary Folder.2UjP4U/BetterZip Temporary Folder.smRcXu/com.strejda603.airmailpremium/index.html",
+		"/Users/danielpitra/Documents/Theos/airmailpremium/packageInfo/com.strejda603.airmailpremium",
+		"/Users/danielpitra/Downloads/control2",
+		"/Users/danielpitra/Downloads/control",
+		"/Users/danielpitra/Documents/GitHub/strejda603.github.io/packageInfo/com.strejda603.airmailpremium",
+		"/Users/danielpitra/Downloads/strejda603.github.io/depictions/com.strejda603.airmailpremium/index.html",
+		"/Users/danielpitra/Downloads/strejda603.github.io/index.html",
+		"/Users/danielpitra/Downloads/strejda603.github.io/depictions/com.strejda603.airmailpremium/screenshots.html",
+		"/Users/danielpitra/Downloads/LacertosusRepo.github.io-master/depictions/com.strejda603.airmailpremium/index.html",
+		"/Users/danielpitra/Downloads/LacertosusRepo.github.io-master/depictions/com.strejda603.airmailpremium/screenshots.html",
+		"/Users/danielpitra/Documents/GitHub/strejda603.github.io/description.html",
+		"/Users/danielpitra/Documents/GitHub/strejda603.github.io/packages.html",
+		"/Users/danielpitra/Downloads/LacertosusRepo.github.io-master/depictions/com.strejda603.airmailpremium/changelog.html",
+		"/Users/danielpitra/Downloads/LacertosusRepo.github.io-master/index.html",
+		"/Users/danielpitra/Documents/GitHub/strejda603.github.io/iosver.js",
+		"/Users/danielpitra/Documents/GitHub/strejda603.github.io/packageInfo/com.strejda603.signalscopexprotoolenabled",
+		"/Users/danielpitra/Documents/GitHub/strejda603.github.io/packageInfo/com.strejda603.strikewriterpublisherpremium",
+		"/Users/danielpitra/Documents/GitHub/strejda603.github.io/packageInfo/com.strejda603.torvpnsubscription",
+		"/Users/danielpitra/Documents/GitHub/strejda603.github.io/packageInfo/com.strejda603.weatherpropremium",
+		"/Users/danielpitra/Documents/GitHub/strejda603.github.io/packageInfo/com.strejda603.wifimappro",
+		"/Users/danielpitra/Documents/GitHub/strejda603.github.io/packageInfo/com.strejda603.moleskinetimepagesubscription",
+		"/Users/danielpitra/Documents/GitHub/strejda603.github.io/packageInfo/com.strejda603.noaaweatherradarpremium",
+		"/Users/danielpitra/Documents/GitHub/strejda603.github.io/packageInfo/com.strejda603.pdfexpert7pro",
+		"/Users/danielpitra/Documents/GitHub/strejda603.github.io/packageInfo/com.strejda603.planeslivepremium",
+		"/Users/danielpitra/Documents/GitHub/strejda603.github.io/packageInfo/com.strejda603.scantranslatepluspremium",
+		"/Users/danielpitra/Documents/GitHub/strejda603.github.io/packageInfo/com.strejda603.moleskineflowsubscription",
+		"/Users/danielpitra/Documents/GitHub/strejda603.github.io/packageInfo/com.strejda603.cozifamilyorganizerpremium",
+		"/Users/danielpitra/Documents/GitHub/strejda603.github.io/packageInfo/com.strejda603.moleskineactionssubscription",
+		"/Users/danielpitra/Documents/GitHub/strejda603.github.io/sileo-depictions/com.strejda603.signalscopexprotoolenabled",
+		"/Users/danielpitra/Documents/GitHub/strejda603.github.io/sileo-featured.json",
+		"/Users/danielpitra/Documents/GitHub/strejda603.github.io/packages.js",
+		"/Users/danielpitra/Documents/GitHub/strejda603.github.io/.gitignore",
+		"/Users/danielpitra/Documents/GitHub/strejda603.github.io/sileo-depictions/com.strejda603.torvpnsubscription",
+		"/Users/danielpitra/Documents/Theos/torvpnsubscription/Tweak.x",
+		"/Users/danielpitra/Documents/Theos/signalscopepro/Tweak.xm",
+		"/Users/danielpitra/Documents/GitHub/strejda603.github.io/main3.css",
+		"/Users/danielpitra/Documents/GitHub/strejda603.github.io/description.js",
+		"/Users/danielpitra/Downloads/reddestdream.github.io-master/index.html",
+		"/Users/danielpitra/Downloads/reddestdream.github.io-master/depictions/MinimalHostsBlocker/index.html",
+		"/Users/danielpitra/Downloads/test.css",
+		"/Users/danielpitra/Downloads/test.js",
+		"/Users/danielpitra/Downloads/test.html",
+		"/Users/danielpitra/Library/Application Support/Sublime Text 3/Packages/JavaScript/JSON.sublime-syntax",
+		"/Users/danielpitra/Library/Application Support/Sublime Text 3/Packages/User/strejda603.sublime-syntax",
+		"/Users/danielpitra/Library/Application Support/Sublime Text 3/Packages/User/x.sublime-syntax",
+		"/Users/danielpitra/Documents/GitHub/strejda603.github.io/sileo-depictions/com.strejda603.airmailpremium",
+		"/Users/danielpitra/Documents/GitHub/strejda603.github.io/update.sh",
+		"/Users/danielpitra/Documents/Theos/kurzymenads/Tweak.x",
+		"/Users/danielpitra/Documents/Theos/sololearnpro/Tweak.x",
+		"/Users/danielpitra/Documents/Theos/planeslivepremium/Tweak.x",
+		"/Users/danielpitra/Documents/Theos/nasestravenkajb/Tweak.x",
+		"/Users/danielpitra/Documents/Theos/apollonotifications/Tweak.x",
+		"/Users/danielpitra/Documents/Theos/AdView.x",
+		"/Users/danielpitra/Downloads/class_dump_Apollo-headers/Apollo-Structs.h",
+		"/Users/danielpitra/Documents/Theos/scantranslatepremiumjailed/Makefile",
+		"/Users/danielpitra/Documents/Theos/pdfexpert7pro/Tweak.x",
+		"/Users/danielpitra/Documents/Theos/scantranslatepremiumjailed/Tweak.xm",
+		"/Users/danielpitra/Library/Application Support/Sublime Text 3/Packages/User/Flex.yaml",
+		"/Users/danielpitra/Library/Application Support/Sublime Text 3/Packages/Flex/Flex.sublime-syntax"
+	],
+	"find":
+	{
+		"height": 70.0
+	},
+	"find_in_files":
+	{
+		"height": 158.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 64.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 132.0
+	},
+	"pinned_build_system": "",
+	"project": "repo.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"[vc_row full_width=\"stretch_row\" parallax=\"content"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 260.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
