@@ -11,8 +11,16 @@
                     "itemSize": "{160, 275.41333333333336}",
                     "screenshots": [
                         {
-                            "accessibilityText": "Screenshot",
-                            "url": "https://strejda603.github.io/depictions/com.strejda603.scantranslatepluspremium/screenshots/1.png"
+                            "accessibilityText": "Screenshot1",
+                            "url": "https://strejda603.github.io/depictions/com.strejda603.signalscopexprotoolenabled/screenshots/1.png"
+                        },
+                        {
+                            "accessibilityText": "Screenshot2",
+                            "url": "https://strejda603.github.io/depictions/com.strejda603.signalscopexprotoolenabled/screenshots/2.png"
+                        },
+                        {
+                            "accessibilityText": "Screenshot3",
+                            "url": "https://strejda603.github.io/depictions/com.strejda603.signalscopexprotoolenabled/screenshots/3.png"
                         }
                     ]
                 },
@@ -24,7 +32,7 @@
                     "title": "markdown-description",
                     "useBoldText": true,
                     "class": "DepictionMarkdownView",
-                    "markdown": "Enables premium features.\r\n\r\n**NOTE:** This tweak was tested on iOS 11 and 12, but it may work in lower ones.\r\n\r\n",
+                    "markdown": "Enables Pro Tool Subscription.\r\n\r\n**NOTE:** This tweak was tested on iOS 11, 12 and 13, but it may work in lower ones.\r\n\r\n",
                     "useBottomMargin": false
                 },
                 {
@@ -37,7 +45,7 @@
                 },
                 {
                     "title": "Released",
-                    "text": "Aug 4, 2019",
+                    "text": "Mar 13, 2020",
                     "class": "DepictionTableTextView"
                 },
                 {
@@ -72,17 +80,17 @@
             "views": [
                 {
                     "class": "DepictionSubheaderView",
-                    "title": "1.0.1",
+                    "title": "1.0.1 (13/3/2020)",
                     "useBoldText": true
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "- Popup fix.",
+                    "markdown": "- Added arm64e devices support.",
                     "useSpacing": false
                 },
                 {
                     "class": "DepictionSubheaderView",
-                    "title": "1.0.0",
+                    "title": "1.0.0 (9/3/2020)",
                     "useBoldText": true
                 },
                 {

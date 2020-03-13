@@ -36,12 +36,12 @@
                 },
                 {
                     "title": "Version",
-                    "text": "1.0.1",
+                    "text": "1.0.2",
                     "class": "DepictionTableTextView"
                 },
                 {
                     "title": "Released",
-                    "text": "Aug 4, 2019",
+                    "text": "Mar 13, 2020",
                     "class": "DepictionTableTextView"
                 },
                 {
@@ -76,7 +76,17 @@
             "views": [
                 {
                     "class": "DepictionSubheaderView",
-                    "title": "1.0.1",
+                    "title": "1.0.2 (13/3/2020)",
+                    "useBoldText": true
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "- Added arm64e devices support.",
+                    "useSpacing": false
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "1.0.1 (4/8/2019)",
                     "useBoldText": true
                 },
                 {
@@ -86,7 +96,7 @@
                 },
                 {
                     "class": "DepictionSubheaderView",
-                    "title": "1.0.0",
+                    "title": "1.0.0 (2/8/2019)",
                     "useBoldText": true
                 },
                 {

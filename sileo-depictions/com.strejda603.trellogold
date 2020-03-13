@@ -12,7 +12,7 @@
                     "screenshots": [
                         {
                             "accessibilityText": "Screenshot",
-                            "url": "https://strejda603.github.io/depictions/com.strejda603.airmailpremium/screenshots/1.png"
+                            "url": "https://strejda603.github.io/depictions/com.strejda603.trellogold/screenshots/1.png"
                         }
                     ]
                 },
@@ -24,7 +24,7 @@
                     "title": "markdown-description",
                     "useBoldText": true,
                     "class": "DepictionMarkdownView",
-                    "markdown": "Makes Airmail great again ;-)!\r\n\r\nDo **NOT** update to v1.9.2 unless you have *”Liberty Lite”* tweak already installed and enabled!\r\n\r\n**NOTE:** This tweak was tested on iOS 11 and 12, but it may work in lower ones.\r\n\r\n",
+                    "markdown": "Enables premium features.\r\n\r\n**NOTE:** This tweak was tested on iOS 11 and 12, but it may work in lower ones.\r\n\r\n",
                     "useBottomMargin": false
                 },
                 {
@@ -32,7 +32,7 @@
                 },
                 {
                     "title": "Version",
-                    "text": "1.0.3",
+                    "text": "1.0.0",
                     "class": "DepictionTableTextView"
                 },
                 {
@@ -72,37 +72,7 @@
             "views": [
                 {
                     "class": "DepictionSubheaderView",
-                    "title": "1.0.3 (13/3/2020)",
-                    "useBoldText": true
-                },
-                {
-                    "class": "DepictionMarkdownView",
-                    "markdown": "- Added arm64e devices support.",
-                    "useSpacing": false
-                },
-                {
-                    "class": "DepictionSubheaderView",
-                    "title": "1.0.2 (6/8/2019)",
-                    "useBoldText": true
-                },
-                {
-                    "class": "DepictionMarkdownView",
-                    "markdown": "- Real Time Inbox Monitoring fix.",
-                    "useSpacing": false
-                },
-                {
-                    "class": "DepictionSubheaderView",
-                    "title": "1.0.1 (4/8/2019)",
-                    "useBoldText": true
-                },
-                {
-                    "class": "DepictionMarkdownView",
-                    "markdown": "- Popup fix.",
-                    "useSpacing": false
-                },
-                {
-                    "class": "DepictionSubheaderView",
-                    "title": "1.0.0 (2/8/2019)",
+                    "title": "1.0.0 (13/3/2020)",
                     "useBoldText": true
                 },
                 {
@@ -113,7 +83,7 @@
             ]
         }
     ],
-    "headerImage": "https://strejda603.github.io/depictions/resources/logo/toss.png",
+    "headerImage": "https://strejda603.github.io/img/toss.png",
     "tintColor": "#18aebf",
     "minVersion": "0.1"
 }
