@@ -221,10 +221,10 @@ Maintainer: strejda603 <strejda603@centrum.cz>
 Installed-Size: 200
 Depends: mobilesubstrate
 Filename: ./debs/com.strejda603.trellogold_1.0.0_iphoneos-arm.deb
-Size: 4070
-MD5sum: c5a01f5f34ad1e23be789893d991f65e
-SHA1: c924c6303c68f184ca7b88ba1d1969de4a7e7765
-SHA256: d29eeec86c3f2396dcb2a60a3410fbc13c2fac42c1265794adfd11b338864f2e
+Size: 3940
+MD5sum: e5707d4a1cdc8f417121704d3bbed1c6
+SHA1: 28e158441ee2ba9129ae9d704e3549777e18ec70
+SHA256: 84261297f16c1385bef6143feb2ddb329a451e0df02c2571ad670490277db4b1
 Section: Tweaks
 Description: Enables Gold features.
 Author: strejda603 <strejda603@centrum.cz>
