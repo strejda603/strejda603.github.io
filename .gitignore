@@ -62,5 +62,5 @@ typings/
 
 .DS_Store
 
-.sublime-workspace
+*.sublime-workspace
 *.sublime-project
