@@ -12,7 +12,7 @@
                     "screenshots": [
                         {
                             "accessibilityText": "Screenshot",
-                            "url": "https://strejda603.github.io/img/cozi.png"
+                            "url": "https://strejda603.github.io/depictions/com.strejda603.cozifamilyorganizerpremium/screenshots/1.png"
                         }
                     ]
                 },
@@ -83,7 +83,7 @@
             ]
         }
     ],
-    "headerImage": "https://strejda603.github.io/img/toss.png",
+    "headerImage": "https://strejda603.github.io/depictions/resources/logo/toss.png",
     "tintColor": "#18aebf",
     "minVersion": "0.1"
 }

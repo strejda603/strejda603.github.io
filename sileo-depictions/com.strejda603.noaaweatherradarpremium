@@ -12,7 +12,7 @@
                     "screenshots": [
                         {
                             "accessibilityText": "Screenshot",
-                            "url": "https://strejda603.github.io/img/noaaweather.png"
+                            "url": "https://strejda603.github.io/depictions/com.strejda603.noaaweatherradarpremium/screenshots/1.png"
                         }
                     ]
                 },
@@ -37,7 +37,7 @@
                 },
                 {
                     "title": "Released",
-                    "text": "Aug 4, 2019",
+                    "text": "Aug 5, 2019",
                     "class": "DepictionTableTextView"
                 },
                 {
@@ -83,7 +83,7 @@
             ]
         }
     ],
-    "headerImage": "https://strejda603.github.io/img/toss.png",
+    "headerImage": "https://strejda603.github.io/depictions/resources/logo/toss.png",
     "tintColor": "#18aebf",
     "minVersion": "0.1"
 }

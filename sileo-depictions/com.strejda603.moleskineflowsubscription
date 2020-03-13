@@ -12,11 +12,11 @@
                     "screenshots": [
                         {
                             "accessibilityText": "Screenshot1",
-                            "url": "https://strejda603.github.io/img/flow1.png"
+                            "url": "https://strejda603.github.io/depictions/com.strejda603.moleskineflowsubscription/screenshots/1.png"
                         },
                         {
                             "accessibilityText": "Screenshot2",
-                            "url": "https://strejda603.github.io/img/flow2.png"
+                            "url": "https://strejda603.github.io/depictions/com.strejda603.moleskineflowsubscription/screenshots/2.png"
                         }
                     ]
                 },
@@ -97,7 +97,7 @@
             ]
         }
     ],
-    "headerImage": "https://strejda603.github.io/img/toss.png",
+    "headerImage": "https://strejda603.github.io/depictions/resources/logo/toss.png",
     "tintColor": "#18aebf",
     "minVersion": "0.1"
 }

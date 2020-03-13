@@ -12,11 +12,11 @@
                     "screenshots": [
                         {
                             "accessibilityText": "Screenshot1",
-                            "url": "https://strejda603.github.io/img/weatherpro1.png"
+                            "url": "https://strejda603.github.io/depictions/com.strejda603.weatherpropremium/screenshots/1.png"
                         },
                         {
                             "accessibilityText": "Screenshot2",
-                            "url": "https://strejda603.github.io/img/weatherpro2.png"
+                            "url": "https://strejda603.github.io/depictions/com.strejda603.weatherpropremium/screenshots/2.png"
                         }
                     ]
                 },
@@ -87,7 +87,7 @@
             ]
         }
     ],
-    "headerImage": "https://strejda603.github.io/img/toss.png",
+    "headerImage": "https://strejda603.github.io/depictions/resources/logo/toss.png",
     "tintColor": "#18aebf",
     "minVersion": "0.1"
 }
