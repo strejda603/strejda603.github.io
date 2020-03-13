@@ -64,12 +64,12 @@
                 },
                 {
                     "class": "DepictionTableButtonView",
-                    "title": "Follow me on Twitter",
+                    "title": "Follow Me on Twitter",
                     "action": "https://twitter.com/strejda603"
                 },
                 {
                     "class": "DepictionTableButtonView",
-                    "title": "Buy me a bottle of rum?",
+                    "title": "Buy Me a Bottle of Rum? ;-)",
                     "action": "https://paypal.me/strejda603"
                 }
             ]
