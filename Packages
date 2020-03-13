@@ -1,56 +1,20 @@
 Package: com.strejda603.airmailpremium
-Version: 1.0.0
-Architecture: iphoneos-arm
-Maintainer: strejda603 <strejda603@centrum.cz>
-Installed-Size: 104
-Depends: mobilesubstrate
-Filename: ./debs/com.strejda603.airmailpremium_1.0.0_iphoneos-arm.deb
-Size: 4616
-MD5sum: a441226611cbd29baa19a7861abfd58f
-SHA1: b1eb7ce6d4ff45a09e2365e3e0dbca7fc5c9fee2
-SHA256: 0dc3c44c6930167aea30e22af557c7580d36c64c7896539eba44163fd7a4eb4b
-Section: Tweaks
-Description: Makes Airmail great again ;-)!
-Author: strejda603 <strejda603@centrum.cz>
-Depiction: https://strejda603.github.io/description.html?id=com.strejda603.airmailpremium
-Name: Airmail (Premium)
-Sileodepiction: https://strejda603.github.io/sileo-depictions/com.strejda603.airmailpremium
-
-Package: com.strejda603.airmailpremium
-Version: 1.0.1
-Architecture: iphoneos-arm
-Maintainer: strejda603 <strejda603@centrum.cz>
-Installed-Size: 104
-Depends: mobilesubstrate
-Filename: ./debs/com.strejda603.airmailpremium_1.0.1_iphoneos-arm.deb
-Size: 4696
-MD5sum: 964b80daaf7ddf08999f2183f5e15cf9
-SHA1: b39149e9d4fa23286646f1801b44763ff501016b
-SHA256: f6dba4f27f7d742cfff6f32bb32ebc0049d59c6fafa33f028c95586f7a58482a
-Section: Tweaks
-Description: Makes Airmail great again ;-)!
-Author: strejda603 <strejda603@centrum.cz>
-Depiction: https://strejda603.github.io/description.html?id=com.strejda603.airmailpremium
-Name: Airmail (Premium)
-Sileodepiction: https://strejda603.github.io/sileo-depictions/com.strejda603.airmailpremium
-
-Package: com.strejda603.airmailpremium
 Version: 1.0.2
 Architecture: iphoneos-arm
 Maintainer: strejda603 <strejda603@centrum.cz>
 Installed-Size: 104
 Depends: mobilesubstrate
 Filename: ./debs/com.strejda603.airmailpremium_1.0.2_iphoneos-arm.deb
-Size: 4886
-MD5sum: 8bda3c27f792f5ea8e0d334e78a0a819
-SHA1: 58d23697f90cde37b5c84ee93b5c75e6525dbdea
-SHA256: 58dd4d0966f371bdf356e2f2aabca0f3cdcf3ffcc3ffec9cefa812b2ff987549
+Size: 3520
+MD5sum: 681480aeaf22afacbdb1be71503f58b9
+SHA1: 255e7e57aad344631f026ff4ad24e3d5f9668165
+SHA256: ba52839b8ffef1f86993ee964e570164954630130ae8e6d985d6c85b1b35845e
 Section: Tweaks
 Description: Makes Airmail great again ;-)!
 Author: strejda603 <strejda603@centrum.cz>
-Depiction: https://strejda603.github.io/description.html?id=com.strejda603.airmailpremium
+Depiction: https://strejda603.github.io/depictions/com.strejda603.airmailpremium/index.html
 Name: Airmail (Premium)
-Sileodepiction: https://strejda603.github.io/sileo-depictions/com.strejda603.airmailpremium
+Sileodepiction: https://strejda603.github.io/depictions/com.strejda603.airmailpremium/AirmailPremium.json
 
 Package: com.strejda603.cozifamilyorganizerpremium
 Version: 1.0.0
@@ -59,34 +23,16 @@ Maintainer: strejda603 <strejda603@centrum.cz>
 Installed-Size: 104
 Depends: mobilesubstrate
 Filename: ./debs/com.strejda603.cozifamilyorganizerpremium_1.0.0_iphoneos-arm.deb
-Size: 3346
-MD5sum: 3f3f59e045bac68bf997b3c3bdc40fd2
-SHA1: b5001ac611275f07dee9ba81fbac840acccaff27
-SHA256: 1a038141a74e04fa3c3cd44dd2c4a68143243bd1cd3f2a6667fd001395064c5a
+Size: 3350
+MD5sum: b068ae98629cb1bc7c8087ef0f6c4b01
+SHA1: 13fc24d5e08d97b0b49a8768fc7c78c4d7f91360
+SHA256: d2408da6b5dce09fda83550d48fdaab76731b0942e31afd2f7d27175dead3892
 Section: Tweaks
 Description: Enables premium features.
 Author: strejda603 <strejda603@centrum.cz>
-Depiction: https://strejda603.github.io/description.html?id=com.strejda603.cozifamilyorganizerpremium
+Depiction: https://strejda603.github.io/depictions/com.strejda603.cozifamilyorganizerpremium/index.html
 Name: Cozi Family Organizer (Premium)
-Sileodepiction: https://strejda603.github.io/sileo-depictions/com.strejda603.cozifamilyorganizerpremium
-
-Package: com.strejda603.moleskineactionssubscription
-Version: 1.0.0
-Architecture: iphoneos-arm
-Maintainer: strejda603 <strejda603@centrum.cz>
-Installed-Size: 104
-Depends: mobilesubstrate
-Filename: ./debs/com.strejda603.moleskineactionssubscription_1.0.0_iphoneos-arm.deb
-Size: 4714
-MD5sum: 23ba83040f653c354d518db8b762e801
-SHA1: cd312ae4730bfc3679f3da5e4e5be80a7c6cc24d
-SHA256: 1b3ab864eb779ebbf2fddb012e1ce20982bca23a2e706fcf84617e2618bb6b52
-Section: Tweaks
-Description: Patches subscription requirement for Moleskine Actions.
-Author: strejda603 <strejda603@centrum.cz>
-Depiction: https://strejda603.github.io/description.html?id=com.strejda603.moleskineactionssubscription
-Name: Moleskine Actions (Subscription)
-Sileodepiction: https://strejda603.github.io/sileo-depictions/com.strejda603.moleskineactionssubscription
+Sileodepiction: https://strejda603.github.io/depictions/com.strejda603.cozifamilyorganizerpremium/CoziFamilyOrganizerPremium.json
 
 Package: com.strejda603.moleskineactionssubscription
 Version: 1.0.1
@@ -95,34 +41,16 @@ Maintainer: strejda603 <strejda603@centrum.cz>
 Installed-Size: 104
 Depends: mobilesubstrate
 Filename: ./debs/com.strejda603.moleskineactionssubscription_1.0.1_iphoneos-arm.deb
-Size: 4828
-MD5sum: 5a214f5354bf1ff5bacc352df0eac4a3
-SHA1: c351c0120e6d845695cab2206db50d09755b172f
-SHA256: 9f22a0f705c9614368765d96e633a50b294ad6d01727fb03b5b4a88b53f4b6fe
+Size: 3478
+MD5sum: 3ecf3f0db85789603f7304dc7c446a1c
+SHA1: d071fcbf6fd334aab72048dfe941c9d524f2802c
+SHA256: a41490ba1ceee58098dd88d536b200ca0a7b181763b2fa02db82eed98a10a4a3
 Section: Tweaks
 Description: Patches subscription requirement for Moleskine Actions.
 Author: strejda603 <strejda603@centrum.cz>
-Depiction: https://strejda603.github.io/description.html?id=com.strejda603.moleskineactionssubscription
+Depiction: https://strejda603.github.io/depictions/com.strejda603.moleskineactionssubscription/index.html
 Name: Moleskine Actions (Subscription)
-Sileodepiction: https://strejda603.github.io/sileo-depictions/com.strejda603.moleskineactionssubscription
-
-Package: com.strejda603.moleskineflowsubscription
-Version: 1.0.0
-Architecture: iphoneos-arm
-Maintainer: strejda603 <strejda603@centrum.cz>
-Installed-Size: 104
-Depends: mobilesubstrate
-Filename: ./debs/com.strejda603.moleskineflowsubscription_1.0.0_iphoneos-arm.deb
-Size: 4740
-MD5sum: d376dc2106066f4ca97f1ec24d269652
-SHA1: a1f391e812c0bb3533c6cf1fc645d81431de8771
-SHA256: 91454be28544bec7d32b438cfcda49d3491d606ddaaccab8d9e135e4799a147a
-Section: Tweaks
-Description: Patches subscription requirement for Moleskine Flow.
-Author: strejda603 <strejda603@centrum.cz>
-Depiction: https://strejda603.github.io/description.html?id=com.strejda603.moleskineflowsubscription
-Name: Moleskine Flow (Subscription)
-Sileodepiction: https://strejda603.github.io/sileo-depictions/com.strejda603.moleskineflowsubscription
+Sileodepiction: https://strejda603.github.io/depictions/com.strejda603.moleskineactionssubscription/MoleskineActionsSubscription.json
 
 Package: com.strejda603.moleskineflowsubscription
 Version: 1.0.1
@@ -131,34 +59,16 @@ Maintainer: strejda603 <strejda603@centrum.cz>
 Installed-Size: 104
 Depends: mobilesubstrate
 Filename: ./debs/com.strejda603.moleskineflowsubscription_1.0.1_iphoneos-arm.deb
-Size: 4832
-MD5sum: 6abc23b10152f6510f28e6843b6ff425
-SHA1: 491b50f46ef29b14ad1599b9e0275f00443130db
-SHA256: f81161fd789b5e505ab1014b33289f8d8a8e82c401523de85f5623975e5d5d61
+Size: 3492
+MD5sum: 320e8dbc33cc9a385a581832f773299d
+SHA1: 7b2e3af627541d7bca485c145334e27c7bc10327
+SHA256: 36be1ccec96966fd071edb21f0b0ac9ac3586e35bb94242b76b6a63bab010710
 Section: Tweaks
 Description: Patches subscription requirement for Moleskine Flow.
 Author: strejda603 <strejda603@centrum.cz>
-Depiction: https://strejda603.github.io/description.html?id=com.strejda603.moleskineflowsubscription
+Depiction: https://strejda603.github.io/depictions/com.strejda603.moleskineflowsubscription/index.html
 Name: Moleskine Flow (Subscription)
-Sileodepiction: https://strejda603.github.io/sileo-depictions/com.strejda603.moleskineflowsubscription
-
-Package: com.strejda603.moleskinetimepagesubscription
-Version: 1.0.0
-Architecture: iphoneos-arm
-Maintainer: strejda603 <strejda603@centrum.cz>
-Installed-Size: 104
-Depends: mobilesubstrate
-Filename: ./debs/com.strejda603.moleskinetimepagesubscription_1.0.0_iphoneos-arm.deb
-Size: 4786
-MD5sum: 87b532f6c73c987e7e9b4520f3e698ab
-SHA1: 4bd65724a6478f7e3021f568cb76a0431b9245a9
-SHA256: 0ef2306b0198d58cbd6bbf3c0cf1847a3cb26691bb59f6a63ec951064a14dbd7
-Section: Tweaks
-Description: Patches subscription requirement for Moleskine Timepage.
-Author: strejda603 <strejda603@centrum.cz>
-Depiction: https://strejda603.github.io/description.html?id=com.strejda603.moleskinetimepagesubscription
-Name: Moleskine Timepage (Subscription)
-Sileodepiction: https://strejda603.github.io/sileo-depictions/com.strejda603.moleskinetimepagesubscription
+Sileodepiction: https://strejda603.github.io/depictions/com.strejda603.moleskineflowsubscription/MoleskineFlowSubscription.json
 
 Package: com.strejda603.moleskinetimepagesubscription
 Version: 1.0.1
@@ -167,16 +77,16 @@ Maintainer: strejda603 <strejda603@centrum.cz>
 Installed-Size: 104
 Depends: mobilesubstrate
 Filename: ./debs/com.strejda603.moleskinetimepagesubscription_1.0.1_iphoneos-arm.deb
-Size: 4880
-MD5sum: 0f9c5ce64f5c2a1917786b434c0423bd
-SHA1: a89a96ede4b5f83abe68a02d96864cbd8e28ed3c
-SHA256: 373d5e644fdfe865ed267ef2aba316aed962b5ba046d2d29df497478a0784b35
+Size: 3524
+MD5sum: e17e0df5cdbeb395480b68f48c24b3c2
+SHA1: 11699a35832b8e12fae7a905bb171acbe4d69107
+SHA256: 591c0fcc00d84d3b2d7fd388a506beabb7ce4494880db8e0603ed05eed083091
 Section: Tweaks
 Description: Patches subscription requirement for Moleskine Timepage.
 Author: strejda603 <strejda603@centrum.cz>
-Depiction: https://strejda603.github.io/description.html?id=com.strejda603.moleskinetimepagesubscription
+Depiction: https://strejda603.github.io/depictions/com.strejda603.moleskinetimepagesubscription/index.html
 Name: Moleskine Timepage (Subscription)
-Sileodepiction: https://strejda603.github.io/sileo-depictions/com.strejda603.moleskinetimepagesubscription
+Sileodepiction: https://strejda603.github.io/depictions/com.strejda603.moleskinetimepagesubscription/MoleskineTimepageSubscription.json
 
 Package: com.strejda603.noaaweatherradarpremium
 Version: 1.0.0
@@ -185,34 +95,34 @@ Maintainer: strejda603 <strejda603@centrum.cz>
 Installed-Size: 104
 Depends: mobilesubstrate
 Filename: ./debs/com.strejda603.noaaweatherradarpremium_1.0.0_iphoneos-arm.deb
-Size: 5236
-MD5sum: 4560522cdda6400ccd61df681d1f63aa
-SHA1: 42e18bfcdf595cc0f18f9b6d88e93692ac94998f
-SHA256: e2a331c4ac5d02031dd6145bb749626e4d068f02683c979f4f6ea15d798a417b
+Size: 3802
+MD5sum: 45a1c30c1ecc292ab85793c5364909b5
+SHA1: 67ae9df2ef5d3550e07c286f127cf4322be6241f
+SHA256: 0ca7909c6a0f5f8c9452703a7d939c5333e6be5cd232d127873040434f76dad2
 Section: Tweaks
 Description: Enables premium features.
 Author: strejda603 <strejda603@centrum.cz>
-Depiction: https://strejda603.github.io/description.html?id=com.strejda603.noaaweatherradarpremium
+Depiction: https://strejda603.github.io/depictions/com.strejda603.noaaweatherradarpremium/index.html
 Name: NOAA Weather Radar (Premium)
-Sileodepiction: https://strejda603.github.io/sileo-depictions/com.strejda603.noaaweatherradarpremium
+Sileodepiction: https://strejda603.github.io/depictions/com.strejda603.noaaweatherradarpremium/NOAAWeatherRadarPremium.json
 
 Package: com.strejda603.pdfexpert7pro
 Version: 1.0.0
 Architecture: iphoneos-arm
 Maintainer: strejda603 <strejda603@centrum.cz>
-Installed-Size: 104
+Installed-Size: 136
 Depends: mobilesubstrate
 Filename: ./debs/com.strejda603.pdfexpert7pro_1.0.0_iphoneos-arm.deb
-Size: 3266
-MD5sum: 7ae5884d01137d22e6064df333fb02ee
-SHA1: 14efc2ab31bf595ae3ed0a92ac7b9b1a2c23db67
-SHA256: 71daadb276cc0c240e93e9c317c7b91cc3c92b0483ea0f92d403e5eb8b449080
+Size: 3314
+MD5sum: e09dc6198f155a7bb90ad7abc54e28d2
+SHA1: f733153a760841902b0fc481e9c3c4ea8cac4cc6
+SHA256: 3dfe0ae774411cc02ed28d09eac0936533d7f276dfc6ed2b416e24e52207eb44
 Section: Tweaks
 Description: Enables PRO features.
 Author: strejda603 <strejda603@centrum.cz>
-Depiction: https://strejda603.github.io/description.html?id=com.strejda603.pdfexpert7pro
+Depiction: https://strejda603.github.io/depictions/com.strejda603.pdfexpert7pro/index.html
 Name: PDF Expert 7 (PRO)
-Sileodepiction: https://strejda603.github.io/sileo-depictions/com.strejda603.pdfexpert7pro
+Sileodepiction: https://strejda603.github.io/depictions/com.strejda603.pdfexpert7pro/PDFExpert7PRO.json
 
 Package: com.strejda603.planeslivepremium
 Version: 1.0.0
@@ -221,34 +131,16 @@ Maintainer: strejda603 <strejda603@centrum.cz>
 Installed-Size: 104
 Depends: mobilesubstrate
 Filename: ./debs/com.strejda603.planeslivepremium_1.0.0_iphoneos-arm.deb
-Size: 3412
-MD5sum: b2a278becd843f6d07723870d41f4e3c
-SHA1: 4160f4de79d9c74a628c761b4cf68020029b2420
-SHA256: 33345420ff3b6a3e05fa00a45fd6d36f64c2078397a7a2df1389e783de9cc7fe
+Size: 3422
+MD5sum: d26e12c55a93dad5d0bf5d49e38d4052
+SHA1: 034f0372430c948261be303a248c761c803ecd52
+SHA256: 1583f3f65b0f68d8cb10db1d15f8cafbae01d6c9e7b526546a2f1e60dd578a2a
 Section: Tweaks
 Description: Enables premium features.
 Author: strejda603 <strejda603@centrum.cz>
-Depiction: https://strejda603.github.io/description.html?id=com.strejda603.planeslivepremium
+Depiction: https://strejda603.github.io/depictions/com.strejda603.planeslivepremium/index.html
 Name: Planes Live (Premium)
-Sileodepiction: https://strejda603.github.io/sileo-depictions/com.strejda603.planeslivepremium
-
-Package: com.strejda603.scantranslatepluspremium
-Version: 1.0.0
-Architecture: iphoneos-arm
-Maintainer: strejda603 <strejda603@centrum.cz>
-Installed-Size: 104
-Depends: mobilesubstrate
-Filename: ./debs/com.strejda603.scantranslatepluspremium_1.0.0_iphoneos-arm.deb
-Size: 4484
-MD5sum: afe7b3461e385413d6ad07b0ff5dbee6
-SHA1: 7b1f27b1bdfb96fd979aa7b467dc926e25bdc73b
-SHA256: 0327c071427c0f400d73288e4bc1bc107c633111ea1663d6f91311a51b0ba0ed
-Section: Tweaks
-Description: Enables premium features.
-Author: strejda603 <strejda603@centrum.cz>
-Depiction: https://strejda603.github.io/description.html?id=com.strejda603.scantranslatepluspremium
-Name: Scan&Translate+ (Premium)
-Sileodepiction: https://strejda603.github.io/sileo-depictions/com.strejda603.scantranslatepluspremium
+Sileodepiction: https://strejda603.github.io/depictions/com.strejda603.planeslivepremium/PlanesLivePremium.json
 
 Package: com.strejda603.scantranslatepluspremium
 Version: 1.0.1
@@ -257,16 +149,16 @@ Maintainer: strejda603 <strejda603@centrum.cz>
 Installed-Size: 104
 Depends: mobilesubstrate
 Filename: ./debs/com.strejda603.scantranslatepluspremium_1.0.1_iphoneos-arm.deb
-Size: 4590
-MD5sum: 78390fd278f096da8bce159d13c78b36
-SHA1: 68a11fc75667762b936f0169ff2b45b1a3f90573
-SHA256: d65286f0fd3e9d961ce8818190986471efbd93790815da8624eaea339aebd6ae
+Size: 3344
+MD5sum: 4a24597e08e8e04ecc15d3bd693e4f1f
+SHA1: 3438e3ee3f0bdf5a8da70283e74e3ff54eb1c8ef
+SHA256: 3f19ac8ba4ce9ebf119a7a2e77e54ce539280080220b0a2fe915a4a0708c6bfc
 Section: Tweaks
 Description: Enables premium features.
 Author: strejda603 <strejda603@centrum.cz>
-Depiction: https://strejda603.github.io/description.html?id=com.strejda603.scantranslatepluspremium
+Depiction: https://strejda603.github.io/depictions/com.strejda603.scantranslatepluspremium/index.html
 Name: Scan&Translate+ (Premium)
-Sileodepiction: https://strejda603.github.io/sileo-depictions/com.strejda603.scantranslatepluspremium
+Sileodepiction: https://strejda603.github.io/depictions/com.strejda603.scantranslatepluspremium/ScanTranslatePremium.json
 
 Package: com.strejda603.signalscopexprotoolenabled
 Version: 1.0.0
@@ -276,15 +168,15 @@ Installed-Size: 136
 Depends: mobilesubstrate
 Filename: ./debs/com.strejda603.signalscopexprotoolenabled_1.0.0_iphoneos-arm.deb
 Size: 3638
-MD5sum: fdadcf166a68aef2ac4505a56931b168
-SHA1: d95e191979f87859c65f5426a93a06e66ab6e470
-SHA256: a8c59a20020e5942120c4501b3036d85b10faa10d445c1d694a700da4f4a710c
+MD5sum: 59da95b4d66d7360ae89b8630244f520
+SHA1: af5cd2322ab713b4f787f4620ea42f3bea9963da
+SHA256: e006d78dcfb3d609a2aae53061ce35851c335cc3a236a25ef81ac67243ba816b
 Section: Tweaks
 Description: Enables Pro Tool Subscription.
 Author: strejda603 <strejda603@centrum.cz>
-Depiction: https://strejda603.github.io/description.html?id=com.strejda603.signalscopexprotoolenabled
+Depiction: https://strejda603.github.io/depictions/com.strejda603.signalscopexprotoolenabled/index.html
 Name: SignalScope X (Pro Tool Enabled)
-Sileodepiction: https://strejda603.github.io/sileo-depictions/com.strejda603.signalscopexprotoolenabled
+Sileodepiction: https://strejda603.github.io/depictions/com.strejda603.signalscopexprotoolenabled/SignalScopeXProToolEnabled.json
 
 Package: com.strejda603.strikewriterpublisherpremium
 Version: 1.0.0
@@ -293,16 +185,16 @@ Maintainer: strejda603 <strejda603@centrum.cz>
 Installed-Size: 104
 Depends: mobilesubstrate
 Filename: ./debs/com.strejda603.strikewriterpublisherpremium_1.0.0_iphoneos-arm.deb
-Size: 3286
-MD5sum: 21642deb3708ce6f529fbb826cb9bea0
-SHA1: eed4fafb98b78124ca52cecd82a9dd9410af3cb9
-SHA256: 663f6fd1f839e6838d02bce495784d7efeb3fbd4d36fdddae558958be0139902
+Size: 3294
+MD5sum: 35448e46dabe3b07703ffcb9b3aa5aea
+SHA1: 0fe036f85f1881cee54a233c8d9fd420fbb15564
+SHA256: 5b66d87d42a51c57cd067d3102b452b2190d3916893ae902ae67e4d39facf270
 Section: Tweaks
 Description: Enables premium features.
 Author: strejda603 <strejda603@centrum.cz>
-Depiction: https://strejda603.github.io/description.html?id=com.strejda603.strikewriterpublisherpremium
+Depiction: https://strejda603.github.io/depictions/com.strejda603.strikewriterpublisherpremium/index.html
 Name: Strike Writer & Publisher (Premium)
-Sileodepiction: https://strejda603.github.io/sileo-depictions/com.strejda603.strikewriterpublisherpremium
+Sileodepiction: https://strejda603.github.io/depictions/com.strejda603.strikewriterpublisherpremium/StrikeWriterPublisherPremium.json
 
 Package: com.strejda603.torvpnsubscription
 Version: 1.0.0
@@ -311,16 +203,16 @@ Maintainer: strejda603 <strejda603@centrum.cz>
 Installed-Size: 136
 Depends: mobilesubstrate
 Filename: ./debs/com.strejda603.torvpnsubscription_1.0.0_iphoneos-arm.deb
-Size: 3378
-MD5sum: 41baa3cc9abc83d7d8d5b898e5eb3a9c
-SHA1: b5c5ea3471e5f0fdf2a05d7af1d0f2c834dc3c30
-SHA256: 7f16cb39d921b516f07173a1d2c509daed8c6a0e52e1f6ae72abc32fd1387955
+Size: 3384
+MD5sum: ca4e0fab3470bf8b1c6124448baf2b33
+SHA1: f93f9518b02fbd424164c1e098f18bd975a7fd66
+SHA256: 5cc53b66efe3bf716ae3414580dbd139b37b082dce2c81fc5f7d2a77c51ed6f9
 Section: Tweaks
 Description: Patches subscription requirement
 Author: strejda603 <strejda603@centrum.cz>
-Depiction: https://strejda603.github.io/description.html?id=com.strejda603.torvpnsubscription
+Depiction: https://strejda603.github.io/depictions/com.strejda603.torvpnsubscription/index.html
 Name: TorVPN (Subscription)
-Sileodepiction: https://strejda603.github.io/sileo-depictions/com.strejda603.torvpnsubscription
+Sileodepiction: https://strejda603.github.io/depictions/com.strejda603.torvpnsubscription/TorVPNSubscription.json
 
 Package: com.strejda603.weatherpropremium
 Version: 1.0.0
@@ -329,16 +221,16 @@ Maintainer: strejda603 <strejda603@centrum.cz>
 Installed-Size: 104
 Depends: mobilesubstrate
 Filename: ./debs/com.strejda603.weatherpropremium_1.0.0_iphoneos-arm.deb
-Size: 3308
-MD5sum: 547b4c1ff538d337f0e2ad827be5ede2
-SHA1: e0809cf9c58354276efd76d1d3b13f05a0df8d07
-SHA256: b0252798aaaf8f605d9b55302e2186e7b58e1b2b13546b4bbd6cc003d8ae0f0c
+Size: 3318
+MD5sum: ca67626c1e214ee29b15595c9797ba67
+SHA1: 290f42f6ef5ed3b23dd7320db6ebe7d82a07bb10
+SHA256: 8749c965b4be74e4fe839f5ad61fe5f78457f85fcc8cbb155bf57ee7a16674b3
 Section: Tweaks
 Description: Enables premium features.
 Author: strejda603 <strejda603@centrum.cz>
-Depiction: https://strejda603.github.io/description.html?id=com.strejda603.weatherpropremium
+Depiction: https://strejda603.github.io/depictions/com.strejda603.weatherpropremium/index.html
 Name: WeatherPro (Premium)
-Sileodepiction: https://strejda603.github.io/sileo-depictions/com.strejda603.weatherpropremium
+Sileodepiction: https://strejda603.github.io/depictions/com.strejda603.weatherpropremium/WeatherProPremium.json
 
 Package: com.strejda603.wifimappro
 Version: 1.0.0
@@ -347,14 +239,14 @@ Maintainer: strejda603 <strejda603@centrum.cz>
 Installed-Size: 104
 Depends: mobilesubstrate
 Filename: ./debs/com.strejda603.wifimappro_1.0.0_iphoneos-arm.deb
-Size: 3424
-MD5sum: ada1713360123389a4c16d4a77aba273
-SHA1: c27f59c073adfc70174ba706d1cd4bbfd5e2388b
-SHA256: f4c082b9a6725cc8fca58731b9966b5664cead80042df22859b5114b110e7507
+Size: 3436
+MD5sum: 9b6b390bc15458bbbe5aad0d686f5428
+SHA1: 72299ad0368ad5a5a4dbbf7b49c86cb85ee0d6fc
+SHA256: d4670f13e217f79a6ad11027d30bdfb7347b021b2031a51f08be15fcca56d339
 Section: Tweaks
 Description: Enables PRO features.
 Author: strejda603 <strejda603@centrum.cz>
-Depiction: https://strejda603.github.io/description.html?id=com.strejda603.wifimappro
+Depiction: https://strejda603.github.io/depictions/com.strejda603.wifimappro/index.html
 Name: Wifi Map (Pro)
-Sileodepiction: https://strejda603.github.io/sileo-depictions/com.strejda603.wifimappro
+Sileodepiction: https://strejda603.github.io/depictions/com.strejda603.wifimappro/WifiMapPro.json
 
