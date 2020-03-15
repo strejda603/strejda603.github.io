@@ -16,24 +16,6 @@ Depiction: https://strejda603.github.io/depictions/com.strejda603.airmailpremium
 Name: Airmail (Premium)
 Sileodepiction: https://strejda603.github.io/sileo-depictions/com.strejda603.airmailpremium
 
-Package: com.strejda603.cozifamilyorganizerpremium
-Version: 1.0.1
-Architecture: iphoneos-arm
-Maintainer: strejda603 <strejda603@centrum.cz>
-Installed-Size: 168
-Depends: mobilesubstrate
-Filename: ./debs/com.strejda603.cozifamilyorganizerpremium_1.0.1_iphoneos-arm.deb
-Size: 3982
-MD5sum: 117b778464594918f669658f67090b91
-SHA1: 5a9f90995dd1a8eb19f83386d6062f1753c742cc
-SHA256: 2092c37f68334530ee9af5ea3cc1fb3fb70d2ee3276e228a498ba32932fc09eb
-Section: Tweaks
-Description: Enables premium features.
-Author: strejda603 <strejda603@centrum.cz>
-Depiction: https://strejda603.github.io/depictions/com.strejda603.cozifamilyorganizerpremium/index.html
-Name: Cozi Family Organizer (Premium)
-Sileodepiction: https://strejda603.github.io/sileo-depictions/com.strejda603.cozifamilyorganizerpremium
-
 Package: com.strejda603.moleskineactionssubscription
 Version: 1.0.2
 Architecture: iphoneos-arm
@@ -106,24 +88,6 @@ Depiction: https://strejda603.github.io/depictions/com.strejda603.noaaweatherrad
 Name: NOAA Weather Radar (Premium)
 Sileodepiction: https://strejda603.github.io/sileo-depictions/com.strejda603.noaaweatherradarpremium
 
-Package: com.strejda603.pdfexpert7pro
-Version: 1.0.1
-Architecture: iphoneos-arm
-Maintainer: strejda603 <strejda603@centrum.cz>
-Installed-Size: 200
-Depends: mobilesubstrate
-Filename: ./debs/com.strejda603.pdfexpert7pro_1.0.1_iphoneos-arm.deb
-Size: 3804
-MD5sum: a16a7bdc99f35fdc84f68a5ce64b4f45
-SHA1: b34e9a453ef57c2c007f6f937f970373859b3a7c
-SHA256: fef1731c2955213e6d3860bb01bd7b02ad26c94c7adb078e1997b4d9d7f12f5a
-Section: Tweaks
-Description: Enables PRO features.
-Author: strejda603 <strejda603@centrum.cz>
-Depiction: https://strejda603.github.io/depictions/com.strejda603.pdfexpert7pro/index.html
-Name: PDF Expert 7 (PRO)
-Sileodepiction: https://strejda603.github.io/sileo-depictions/com.strejda603.pdfexpert7pro
-
 Package: com.strejda603.planeslivepremium
 Version: 1.0.1
 Architecture: iphoneos-arm
@@ -177,24 +141,6 @@ Author: strejda603 <strejda603@centrum.cz>
 Depiction: https://strejda603.github.io/depictions/com.strejda603.signalscopexprotoolenabled/index.html
 Name: SignalScope X (Pro Tool Enabled)
 Sileodepiction: https://strejda603.github.io/sileo-depictions/com.strejda603.signalscopexprotoolenabled
-
-Package: com.strejda603.strikewriterpublisherpremium
-Version: 1.0.1
-Architecture: iphoneos-arm
-Maintainer: strejda603 <strejda603@centrum.cz>
-Installed-Size: 168
-Depends: mobilesubstrate
-Filename: ./debs/com.strejda603.strikewriterpublisherpremium_1.0.1_iphoneos-arm.deb
-Size: 3888
-MD5sum: 2ba1968926e3580cab98dc2753fb7680
-SHA1: 49799b9a4d1570d7d6280fb5de8e083efd39b0d5
-SHA256: 095943bdf1f3d56b0a84171e143b0f6b4cbc3cab0ba61473d2fd8c9f9d9d3a8d
-Section: Tweaks
-Description: Enables premium features.
-Author: strejda603 <strejda603@centrum.cz>
-Depiction: https://strejda603.github.io/depictions/com.strejda603.strikewriterpublisherpremium/index.html
-Name: Strike Writer & Publisher (Premium)
-Sileodepiction: https://strejda603.github.io/sileo-depictions/com.strejda603.strikewriterpublisherpremium
 
 Package: com.strejda603.torvpnsubscription
 Version: 1.0.1
