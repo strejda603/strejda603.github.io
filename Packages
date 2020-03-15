@@ -93,6 +93,25 @@ Depiction: https://strejda603.github.io/depictions/com.strejda603.noaaweatherrad
 Name: NOAA Weather Radar (Premium)
 Sileodepiction: https://strejda603.github.io/sileo-depictions/com.strejda603.noaaweatherradarpremium
 
+Package: com.strejda603.pdfexpert7pro
+Version: 1.0.2
+Architecture: iphoneos-arm
+Maintainer: strejda603 <strejda603@centrum.cz>
+Installed-Size: 264
+Depends: mobilesubstrate
+Filename: ./debs/com.strejda603.pdfexpert7pro_1.0.2_iphoneos-arm.deb
+Size: 6328
+MD5sum: 99b5e06ba2c70a21cb6c2fbc15c061c1
+SHA1: c101c8b681851ac1f8acdc7633bc998b16a9debe
+SHA256: 8f6f1f8945e6378facf31988c6ab4b07d5b639ea3e73b62429f9f4d13f8d435d
+Section: Tweaks
+Homepage: https://strejda603.github.io
+Description: Enables PRO features.
+Author: strejda603 <strejda603@centrum.cz>
+Depiction: https://strejda603.github.io/depictions/com.strejda603.pdfexpert7pro/index.html
+Name: PDF Expert 7 (PRO)
+Sileodepiction: https://strejda603.github.io/sileo-depictions/com.strejda603.pdfexpert7pro
+
 Package: com.strejda603.planeslivepremium
 Version: 1.0.2
 Architecture: iphoneos-arm
@@ -168,6 +187,25 @@ Author: strejda603 <strejda603@centrum.cz>
 Depiction: https://strejda603.github.io/depictions/com.strejda603.torvpnsubscription/index.html
 Name: TorVPN (Subscription)
 Sileodepiction: https://strejda603.github.io/sileo-depictions/com.strejda603.torvpnsubscription
+
+Package: com.strejda603.trellogold
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: strejda603 <strejda603@centrum.cz>
+Installed-Size: 264
+Depends: mobilesubstrate
+Filename: ./debs/com.strejda603.trellogold_1.0.1_iphoneos-arm.deb
+Size: 6472
+MD5sum: bdff44e52cf5fdbbd81d633c45610b98
+SHA1: d8ed331edde1d394643de08fdfe6a0345ee91090
+SHA256: 2ff64b7759873783c07f6ad8b1dbaa882957536486ce4a79517ea502692ea6ce
+Section: Tweaks
+Homepage: https://strejda603.github.io
+Description: Enables Gold features.
+Author: strejda603 <strejda603@centrum.cz>
+Depiction: https://strejda603.github.io/depictions/com.strejda603.trellogold/index.html
+Name: Trello (Gold)
+Sileodepiction: https://strejda603.github.io/sileo-depictions/com.strejda603.trellogold
 
 Package: com.strejda603.weatherpropremium
 Version: 1.0.2
