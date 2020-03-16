@@ -45,6 +45,11 @@
                     "class": "DepictionTableTextView"
                 },
                 {
+                    "title": "Compatibility",
+                    "text": "10.0 - 12.4",
+                    "class": "DepictionTableTextView"
+                },
+                {
                     "title": "Price",
                     "text": "Free",
                     "class": "DepictionTableTextView"

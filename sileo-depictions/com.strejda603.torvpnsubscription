@@ -24,7 +24,7 @@
                     "title": "markdown-description",
                     "useBoldText": true,
                     "class": "DepictionMarkdownView",
-                    "markdown": "Patches subscription requirement.\r\n\r\n**NOTE:** This tweak was tested on iOS 11 and 12, but it may work in lower ones.\r\n\r\n",
+                    "markdown": "Patches subscription requirement.\r\n\r\n**NOTE:** This tweak was tested on iOS 11, 12 and 13, but it may work in lower ones.\r\n\r\n",
                     "useBottomMargin": false
                 },
                 {
@@ -38,6 +38,11 @@
                 {
                     "title": "Released",
                     "text": "Mar 15, 2020",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "Compatibility",
+                    "text": "10.0 - 13.3.1",
                     "class": "DepictionTableTextView"
                 },
                 {
