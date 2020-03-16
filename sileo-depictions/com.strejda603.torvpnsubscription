@@ -11,8 +11,12 @@
                     "itemSize": "{160, 275.41333333333336}",
                     "screenshots": [
                         {
-                            "accessibilityText": "Screenshot",
+                            "accessibilityText": "Screenshot1",
                             "url": "https://strejda603.github.io/depictions/com.strejda603.torvpnsubscription/screenshots/1.png"
+                        },
+                        {
+                            "accessibilityText": "Screenshot2",
+                            "url": "https://strejda603.github.io/depictions/com.strejda603.torvpnsubscription/screenshots/2.png"
                         }
                     ]
                 },
