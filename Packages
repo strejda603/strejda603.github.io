@@ -119,10 +119,10 @@ Maintainer: strejda603 <strejda603@centrum.cz>
 Installed-Size: 264
 Depends: mobilesubstrate
 Filename: ./debs/com.strejda603.noaaweatherradarpremium_1.0.3_iphoneos-arm.deb
-Size: 7590
-MD5sum: 3612b2de5f7c144a97c2cd5edf18f17a
-SHA1: 1eb2ccef2b64089b85ccec45b1ecf141b958d939
-SHA256: 63df97341d10c3acaa8babb9382f54da39791de76cdae5c4a5c7da4ceeb0b608
+Size: 7610
+MD5sum: 720739ed96121f55b38b7f2bd6f06524
+SHA1: 0ee6626b0ef5f78440bd2902a3cd8e5812f6ecc3
+SHA256: 245e85bdd12a9e995bcfa2bb126988fa498b795360375a32442a6488b577e07f
 Section: Tweaks
 Homepage: https://strejda603.github.io
 Description: Enables premium features.
