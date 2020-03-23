@@ -24,7 +24,7 @@
                     "title": "markdown-description",
                     "useBoldText": true,
                     "class": "DepictionMarkdownView",
-                    "markdown": "Makes Airmail great again ;-)!\r\n\r\nDo **NOT** update to v1.9.2 unless you have *”Liberty Lite”* tweak already installed and enabled!\r\n\r\n**NOTE:** This tweak was tested on iOS 11, 12 and 13, but it may work in lower ones.\r\n\r\n",
+                    "markdown": "Makes Airmail great again ;-)!\r\n\r\n- Enables premium features\r\n- Jailbreak detection bypass!\r\n\r\n**NOTE:** This tweak was tested on iOS 11, 12 and 13, but it may work in lower ones.\r\n\r\n",
                     "useBottomMargin": false
                 },
                 {
@@ -32,17 +32,17 @@
                 },
                 {
                     "title": "Version",
-                    "text": "1.0.4",
+                    "text": "1.0.5",
                     "class": "DepictionTableTextView"
                 },
                 {
                     "title": "Released",
-                    "text": "Mar 15, 2020",
+                    "text": "Mar 23, 2020",
                     "class": "DepictionTableTextView"
                 },
                 {
                     "title": "Compatibility",
-                    "text": "10.0 - 13.3.1",
+                    "text": "11.0 - 13.3.1",
                     "class": "DepictionTableTextView"
                 },
                 {
@@ -75,6 +75,16 @@
             "class": "DepictionStackView",
             "tabname": "Changelog",
             "views": [
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "1.0.5 (23/3/2020)",
+                    "useBoldText": true
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "- Added Jailbreak Detection Bypass!",
+                    "useSpacing": false
+                },
                 {
                     "class": "DepictionSubheaderView",
                     "title": "1.0.4 (15/3/2020)",

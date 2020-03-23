@@ -1,14 +1,14 @@
 Package: com.strejda603.airmailpremium
-Version: 1.0.4
+Version: 1.0.5
 Architecture: iphoneos-arm
 Maintainer: strejda603 <strejda603@centrum.cz>
 Installed-Size: 264
 Depends: mobilesubstrate
-Filename: ./debs/com.strejda603.airmailpremium_1.0.4_iphoneos-arm.deb
-Size: 6772
-MD5sum: 4c0c73dbff83ee19e068f3fa6c5154e6
-SHA1: dfc6f9906db9111b69bbf1259f050240706bb94a
-SHA256: 336fe9e9a98f2524d61855b29f351337a7632015fddd303bcfea9641899e464e
+Filename: ./debs/com.strejda603.airmailpremium_1.0.5_iphoneos-arm.deb
+Size: 8124
+MD5sum: ee5d4325451ca0adee7366b70074f2f1
+SHA1: 38dc09d381ff8cc5f86a282e3cce61519da075c9
+SHA256: 6aa3798bd47d453a4368626787532232c5463fb1d19dd8bdb6ceb5c649df37c4
 Section: Tweaks
 Homepage: https://strejda603.github.io
 Description: Makes Airmail great again ;-)!
