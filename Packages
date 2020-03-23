@@ -17,17 +17,36 @@ Depiction: https://strejda603.github.io/depictions/com.strejda603.airmailpremium
 Name: Airmail (Premium)
 Sileodepiction: https://strejda603.github.io/sileo-depictions/com.strejda603.airmailpremium
 
-Package: com.strejda603.groovepadpro
+Package: com.strejda603.finescannerpremium
 Version: 1.0.0
 Architecture: iphoneos-arm
 Maintainer: strejda603 <strejda603@centrum.cz>
 Installed-Size: 264
 Depends: mobilesubstrate
-Filename: ./debs/com.strejda603.groovepadpro_1.0.0_iphoneos-arm.deb
-Size: 6328
-MD5sum: fd8a8010b7aba8c404d2442c15988f0a
-SHA1: 82f1bc1073a0e8f0e547596b36b3f529dd806622
-SHA256: f665206faf0684b828c46f9ce1cabc5dfb52615528eb10ba954e39633be17261
+Filename: ./debs/com.strejda603.finescannerpremium_1.0.0_iphoneos-arm.deb
+Size: 7088
+MD5sum: c9f6725994e1ec267df990c980b61917
+SHA1: 576153df655c9e680e45793d92edbb66800595a0
+SHA256: bf5f137e621675071d12ba74a2b017558a8ce0f5eb76e65253e618fc4b17d606
+Section: Tweaks
+Homepage: https://strejda603.github.io
+Description: Enables premium features.
+Author: strejda603 <strejda603@centrum.cz>
+Depiction: https://strejda603.github.io/depictions/com.strejda603.finescannerpremium/index.html
+Name: FineScanner (Premium)
+Sileodepiction: https://strejda603.github.io/sileo-depictions/com.strejda603.finescannerpremium
+
+Package: com.strejda603.groovepadpro
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: strejda603 <strejda603@centrum.cz>
+Installed-Size: 264
+Depends: mobilesubstrate
+Filename: ./debs/com.strejda603.groovepadpro_1.0.1_iphoneos-arm.deb
+Size: 6710
+MD5sum: a0e5118551c546dc1488e123c2e87fef
+SHA1: 846a5bf99422bbfca742200236fc6e429105ca80
+SHA256: 9ab524f5d40713a57f7d3692dfd9a80db708cc01cd7d6d7a145f97f92e6a4fae
 Section: Tweaks
 Homepage: https://strejda603.github.io
 Description: Enables Pro features.
