@@ -13,4 +13,5 @@ echo "Setting Permissions..."
 chmod -R 644 debs/*
 chmod 700 depictions/*
 chmod 644 depictions/*/*
+chmod 700 depictions/*/screenshots
 chmod -R 644 sileo-depictions/*

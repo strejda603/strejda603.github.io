@@ -32,12 +32,12 @@
                 },
                 {
                     "title": "Version",
-                    "text": "1.0.2",
+                    "text": "1.0.3",
                     "class": "DepictionTableTextView"
                 },
                 {
                     "title": "Released",
-                    "text": "Mar 15, 2020",
+                    "text": "Mar 23, 2020",
                     "class": "DepictionTableTextView"
                 },
                 {
@@ -75,6 +75,16 @@
             "class": "DepictionStackView",
             "tabname": "Changelog",
             "views": [
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "1.0.3 (23/3/2020)",
+                    "useBoldText": true
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "- Bug fix.",
+                    "useSpacing": false
+                },
                 {
                     "class": "DepictionSubheaderView",
                     "title": "1.0.2 (15/3/2020)",
