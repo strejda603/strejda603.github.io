@@ -226,6 +226,25 @@ Depiction: https://strejda603.github.io/depictions/com.strejda603.signalscopexpr
 Name: SignalScope X (Pro Tool Enabled)
 Sileodepiction: https://strejda603.github.io/sileo-depictions/com.strejda603.signalscopexprotoolenabled
 
+Package: com.strejda603.soundmeterxprotoolenabled
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: strejda603 <strejda603@centrum.cz>
+Installed-Size: 264
+Depends: mobilesubstrate
+Filename: ./debs/com.strejda603.soundmeterxprotoolenabled_1.0.0_iphoneos-arm.deb
+Size: 6664
+MD5sum: aea51fb65b228662953d6826fb4f26e9
+SHA1: 1b99a863f83e2781ab1a63a1ab44ad277c0c2012
+SHA256: 0e97cffbd118ce734e1ec76569d4391b7f82370100ec91a92287f9d7ef7727a9
+Section: Tweaks
+Homepage: https://strejda603.github.io
+Description: Enables Pro Tool Subscription.
+Author: strejda603 <strejda603@centrum.cz>
+Depiction: https://strejda603.github.io/depictions/com.strejda603.soundmeterxprotoolenabled/index.html
+Name: SoundMeter X (Pro Tool Enabled)
+Sileodepiction: https://strejda603.github.io/sileo-depictions/com.strejda603.soundmeterxprotoolenabled
+
 Package: com.strejda603.torvpnsubscription
 Version: 1.0.3
 Architecture: iphoneos-arm
