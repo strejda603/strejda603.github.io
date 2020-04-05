@@ -10,10 +10,17 @@ xz -5fkev Packages > Packages.xz
 xz -5fkev --format=lzma Packages > Packages.lzma
 
 echo "Setting Permissions..."
-chmod -R 644 debs/*
-chmod 700 depictions/*
-chmod 644 depictions/*/*
-chmod 700 depictions/*/screenshots
-chmod -R 644 sileo-depictions/*
+chmod 750 debs
+chmod 640 debs/*
+chmod 750 depictions
+chmod 750 depictions/*
+chmod 640 depictions/*/*.html
+chmod 750 depictions/*/screenshots
+chmod 640 depictions/*/screenshots/*
+chmod 750 depictions/resources
+chmod 750 depictions/resources/*
+chmod 640 depictions/resources/*/*
+chmod 750 sileo-depictions
+chmod 640 sileo-depictions/*
 
 echo "DONE!"
