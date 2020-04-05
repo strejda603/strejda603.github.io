@@ -1,6 +1,12 @@
 #!/bin/sh
 
-#packages
+# remove shit
+echo "Removing unnecessary files..."
+sudo find ./ -name *~ -exec rm {} \;
+sudo find ./ -name .DS_Store -exec rm {} \;
+sudo find ./ -name ._* -exec rm {} \;
+
+# packages
 echo "Building Packages list..."
 dpkg-scanpackages -m ./debs > Packages
 
@@ -9,6 +15,7 @@ bzip2 -5fkv Packages > Packages.bz2
 xz -5fkev Packages > Packages.xz
 xz -5fkev --format=lzma Packages > Packages.lzma
 
+# permissions
 echo "Setting Permissions..."
 chmod 750 debs
 chmod 640 debs/*
