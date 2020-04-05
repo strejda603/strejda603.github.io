@@ -1,3 +1,22 @@
+Package: com.strejda603.acapellapremium
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: strejda603 <strejda603@centrum.cz>
+Installed-Size: 264
+Depends: mobilesubstrate
+Filename: ./debs/com.strejda603.acapellapremium_1.0.0_iphoneos-arm.deb
+Size: 7174
+MD5sum: 2a2e5b334df39610f50b5a803d738d6d
+SHA1: e8fea80dea73f6ab6eba00d324034578acb744d6
+SHA256: c3ea3bf64503fbda09aa5dead6cf95f00d7ed09894ec2596e480524503041d47
+Section: Tweaks
+Homepage: https://strejda603.github.io
+Description: Enables premium features.
+Author: strejda603 <strejda603@centrum.cz>
+Depiction: https://strejda603.github.io/depictions/com.strejda603.acapellapremium/index.html
+Name: Acapella (Premium)
+Sileodepiction: https://strejda603.github.io/sileo-depictions/com.strejda603.acapellapremium
+
 Package: com.strejda603.airmailpremium
 Version: 1.0.5
 Architecture: iphoneos-arm
