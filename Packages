@@ -93,6 +93,25 @@ Depiction: https://strejda603.github.io/depictions/com.strejda603.groovepadpro/i
 Name: Groovepad (Pro)
 Sileodepiction: https://strejda603.github.io/sileo-depictions/com.strejda603.groovepadpro
 
+Package: com.strejda603.lifesumpremium
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: strejda603 <strejda603@centrum.cz>
+Installed-Size: 264
+Depends: mobilesubstrate
+Filename: ./debs/com.strejda603.lifesumpremium_1.0.0_iphoneos-arm.deb
+Size: 7090
+MD5sum: 8fa33b6ea38e5b90f1bff769c7b1ead2
+SHA1: bc8d1cf42ad84b405092aa41470874f2cf4e88b6
+SHA256: c50d46f5e6cc03556edeb31db93073ae5518d8211ff2ee0b8386866cf66f69f8
+Section: Tweaks
+Homepage: https://strejda603.github.io
+Description: Enables premium features.
+Author: strejda603 <strejda603@centrum.cz>
+Depiction: https://strejda603.github.io/depictions/com.strejda603.lifesumpremium/index.html
+Name: Lifesum (Premium)
+Sileodepiction: https://strejda603.github.io/sileo-depictions/com.strejda603.lifesumpremium
+
 Package: com.strejda603.moleskineactionssubscription
 Version: 1.0.4
 Architecture: iphoneos-arm
