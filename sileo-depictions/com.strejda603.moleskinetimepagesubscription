@@ -28,7 +28,7 @@
                     "title": "markdown-description",
                     "useBoldText": true,
                     "class": "DepictionMarkdownView",
-                    "markdown": "Patches subscription requirement for Moleskine Timepage.\r\n\r\n**NOTE:** This tweak was tested on iOS 11, 12 and 13, but it may work in lower ones.\r\n\r\n",
+                    "markdown": "Patches subscription requirement for Moleskine Timepage.\r\n\r\nHack is working ONLY till v3.1.9!\r\n\r\n**NOTE:** This tweak was tested on iOS 11, 12 and 13, but it may work in lower ones.\r\n\r\n",
                     "useBottomMargin": false
                 },
                 {
