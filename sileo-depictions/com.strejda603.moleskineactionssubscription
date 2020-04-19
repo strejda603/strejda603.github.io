@@ -28,7 +28,7 @@
                     "title": "markdown-description",
                     "useBoldText": true,
                     "class": "DepictionMarkdownView",
-                    "markdown": "Patches subscription requirement for Moleskine Actions.\r\n\r\nHack is working ONLY till v1.7.5!\r\n\r\n**NOTE:** This tweak was tested on iOS 11, 12 and 13, but it may work in lower ones.\r\n\r\n",
+                    "markdown": "Patches subscription requirement for Moleskine Actions (v1.7.5 and below).\r\n\r\n**NOT working in version 1.7.6 and above as Moleskine changed Membership System!**\r\n\r\n**NOTE:** This tweak was tested on iOS 11, 12 and 13, but it may work in lower ones.\r\n\r\n",
                     "useBottomMargin": false
                 },
                 {
