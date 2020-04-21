@@ -113,16 +113,16 @@ Name: Lifesum (Premium)
 Sileodepiction: https://strejda603.github.io/sileo-depictions/com.strejda603.lifesumpremium
 
 Package: com.strejda603.moleskineactions2subscription
-Version: 1.0.0
+Version: 1.0.1
 Architecture: iphoneos-arm
 Maintainer: strejda603 <strejda603@centrum.cz>
 Installed-Size: 264
 Depends: mobilesubstrate
-Filename: ./debs/com.strejda603.moleskineactions2subscription_1.0.0_iphoneos-arm.deb
-Size: 7424
-MD5sum: f1272c285d2696351cb3404764281a6f
-SHA1: dfa4df4f8e2cd147df9dc91e37355e79c49721f6
-SHA256: 0b776a87a6dda4e59f51796c07517673a7bc5f5c99e10b6239a6c59d20516a33
+Filename: ./debs/com.strejda603.moleskineactions2subscription_1.0.1_iphoneos-arm.deb
+Size: 7516
+MD5sum: 630370a4306c85e9d96880b8fa74ffae
+SHA1: 883b44ed22d84acee6d4fc14ce826bec052d3593
+SHA256: a0bc0aa40e270c1afb0ce02f0c3a0090962c461d6c30b98a7b1f317cc734881b
 Section: Tweaks
 Homepage: https://strejda603.github.io
 Description: Patches subscription requirement for Moleskine Actions (from v1.7.6).
@@ -170,16 +170,16 @@ Name: Moleskine Flow (Subscription)
 Sileodepiction: https://strejda603.github.io/sileo-depictions/com.strejda603.moleskineflowsubscription
 
 Package: com.strejda603.moleskinetimepage2subscription
-Version: 1.0.0
+Version: 1.0.1
 Architecture: iphoneos-arm
 Maintainer: strejda603 <strejda603@centrum.cz>
 Installed-Size: 264
 Depends: mobilesubstrate
-Filename: ./debs/com.strejda603.moleskinetimepage2subscription_1.0.0_iphoneos-arm.deb
-Size: 7444
-MD5sum: 8653643e4ac6feea6fb2e2cee68b04b3
-SHA1: 554b7433e24046ec6055128739b9ccf255f90d69
-SHA256: 52cbee0219f44ff2cd3dfb1f134118a161f4e1281f4d1b46f0469aa17cfb2a31
+Filename: ./debs/com.strejda603.moleskinetimepage2subscription_1.0.1_iphoneos-arm.deb
+Size: 7512
+MD5sum: 04a5e21dbaf72777393065f3fbc69ea9
+SHA1: 4d9e5147c58460d0d5c32e3a930756a295073ad0
+SHA256: 4b61c5327cd35dd15fabf5b8c9d6370a20db82190b4f696cf35efc65a514a0e1
 Section: Tweaks
 Homepage: https://strejda603.github.io
 Description: Patches subscription requirement for Moleskine Timepage (from v3.2.0).
