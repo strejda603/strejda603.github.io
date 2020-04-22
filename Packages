@@ -340,6 +340,25 @@ Depiction: https://strejda603.github.io/depictions/com.strejda603.soundmeterxpro
 Name: SoundMeter X (Pro Tool Enabled)
 Sileodepiction: https://strejda603.github.io/sileo-depictions/com.strejda603.soundmeterxprotoolenabled
 
+Package: com.strejda603.strikewriterpublisherpremium
+Version: 1.0.3
+Architecture: iphoneos-arm
+Maintainer: strejda603 <strejda603@centrum.cz>
+Installed-Size: 264
+Depends: mobilesubstrate
+Filename: ./debs/com.strejda603.strikewriterpublisherpremium_1.0.3_iphoneos-arm.deb
+Size: 6868
+MD5sum: aa5f2959388b40c3d8c52ad478aae4a0
+SHA1: f6ae1eff574df05745dd9ead85a9e17b3a22d173
+SHA256: c3437f791f53564792a6bca12bb16eeb829f9965d1043682d2822f1792301bb3
+Section: Tweaks
+Homepage: https://strejda603.github.io
+Description: Enables premium features.
+Author: strejda603 <strejda603@centrum.cz>
+Depiction: https://strejda603.github.io/depictions/com.strejda603.strikewriterpublisherpremium/index.html
+Name: Strike Writer & Publisher (Premium)
+Sileodepiction: https://strejda603.github.io/sileo-depictions/com.strejda603.strikewriterpublisherpremium
+
 Package: com.strejda603.torvpnsubscription
 Version: 1.0.3
 Architecture: iphoneos-arm

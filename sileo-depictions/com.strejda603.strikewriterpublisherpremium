@@ -24,7 +24,7 @@
                     "title": "markdown-description",
                     "useBoldText": true,
                     "class": "DepictionMarkdownView",
-                    "markdown": "Enables premium features.\r\n\r\n**NOTE:** This tweak was tested on iOS 11 and 12, but it may work in lower ones.\r\n\r\n",
+                    "markdown": "Enables premium features.\r\n\r\n**NOTE:** This tweak was tested on iOS 12 and 13, but it may work in lower ones.\r\n\r\n",
                     "useBottomMargin": false
                 },
                 {
@@ -32,12 +32,12 @@
                 },
                 {
                     "title": "Version",
-                    "text": "1.0.2",
+                    "text": "1.0.3",
                     "class": "DepictionTableTextView"
                 },
                 {
                     "title": "Released",
-                    "text": "Mar 15, 2020",
+                    "text": "Apr 22, 2020",
                     "class": "DepictionTableTextView"
                 },
                 {
@@ -70,6 +70,16 @@
             "class": "DepictionStackView",
             "tabname": "Changelog",
             "views": [
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "1.0.3 (22/4/2020)",
+                    "useBoldText": true
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "- Bug fix.",
+                    "useSpacing": false
+                },
                 {
                     "class": "DepictionSubheaderView",
                     "title": "1.0.2 (15/3/2020)",
