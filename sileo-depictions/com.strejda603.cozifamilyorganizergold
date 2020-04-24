@@ -12,7 +12,7 @@
                     "screenshots": [
                         {
                             "accessibilityText": "Screenshot",
-                            "url": "https://strejda603.github.io/depictions/com.strejda603.cozifamilyorganizerpremium/screenshots/1.png"
+                            "url": "https://strejda603.github.io/depictions/com.strejda603.cozifamilyorganizergold/screenshots/1.png"
                         }
                     ]
                 },
@@ -24,7 +24,7 @@
                     "title": "markdown-description",
                     "useBoldText": true,
                     "class": "DepictionMarkdownView",
-                    "markdown": "Enables premium features.\r\n\r\n**NOTE:** This tweak was tested on iOS 11 and 12, but it may work in lower ones.\r\n\r\n",
+                    "markdown": "Enables Gold features.\r\n\r\n**NOTE:** This tweak was tested on iOS 12 and 13, but it may work in lower ones.\r\n\r\n",
                     "useBottomMargin": false
                 },
                 {
@@ -37,7 +37,7 @@
                 },
                 {
                     "title": "Released",
-                    "text": "Mar 15, 2020",
+                    "text": "Apr 24, 2020",
                     "class": "DepictionTableTextView"
                 },
                 {
@@ -72,7 +72,7 @@
             "views": [
                 {
                     "class": "DepictionSubheaderView",
-                    "title": "1.0.2 (15/3/2020)",
+                    "title": "1.0.2 (24/4/2020)",
                     "useBoldText": true
                 },
                 {
