@@ -55,6 +55,25 @@ Depiction: https://strejda603.github.io/depictions/com.strejda603.cozifamilyorga
 Name: Cozi Family Organizer (Gold)
 Sileodepiction: https://strejda603.github.io/sileo-depictions/com.strejda603.cozifamilyorganizergold
 
+Package: com.strejda603.duetdisplaypro
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: strejda603 <strejda603@centrum.cz>
+Installed-Size: 264
+Depends: mobilesubstrate
+Filename: ./debs/com.strejda603.duetdisplaypro_1.0.0_iphoneos-arm.deb
+Size: 4008
+MD5sum: 7c0be819a9ce145cadeeafce1b867275
+SHA1: 5e3c02447e9f400167a8efb605e78f332d60c8a6
+SHA256: f857b5d43c5c8f5004e53d17f43287aab9fe270727970c5a7450dc1f2ede1f87
+Section: Tweaks
+Homepage: https://strejda603.github.io
+Description: Enables Pro features.
+Author: strejda603 <strejda603@centrum.cz>
+Depiction: https://strejda603.github.io/depictions/com.strejda603.duetdisplaypro/index.html
+Name: Duet Display (Pro)
+Sileodepiction: https://strejda603.github.io/sileo-depictions/com.strejda603.duetdisplaypro
+
 Package: com.strejda603.finescannerpremium
 Version: 1.0.0
 Architecture: iphoneos-arm
