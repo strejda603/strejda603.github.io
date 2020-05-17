@@ -1,0 +1,49 @@
+{
+    "class": "DepictionTabView",
+    "tabs": [
+        {
+            "class": "DepictionStackView",
+            "tabname": "Details",
+            "views": [
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 8
+                },
+                {
+                    "title": "markdown-description",
+                    "useBoldText": true,
+                    "class": "DepictionMarkdownView",
+                    "markdown": "Repo has moved to https://repo.danielpitra.cz\r\n\r\n",
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 8
+                },
+                {
+                    "class": "DepictionTableButtonView",
+                    "title": "Open in Sileo",
+                    "action": "sileo://source/https://repo.danielpitra.cz/"
+                },
+                {
+                    "class": "DepictionTableButtonView",
+                    "title": "Open in Cydia",
+                    "action": "cydia://url/https://cydia.saurik.com/api/share#?source=https://repo.danielpitra.cz/"
+                },
+                {
+                    "class": "DepictionTableButtonView",
+                    "title": "Open in Zebra",
+                    "action": "zbra://sources/add/https://repo.danielpitra.cz/"
+                },
+                {
+                    "class": "DepictionTableButtonView",
+                    "title": "Open in Installer",
+                    "action": "installer://add/repo=https://repo.danielpitra.cz/"
+                }
+            ]
+        }
+    ],
+    "headerImage": "https://strejda603.github.io/img/toss.png",
+    "tintColor": "#18aebf",
+    "minVersion": "0.1"
+}
